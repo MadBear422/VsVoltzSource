@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="volt_transition.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="can0000" x="3" y="3" width="420" height="481" frameX="-253" frameY="-732" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0001" x="426" y="3" width="507" height="474" frameX="-208" frameY="-696" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0002" x="936" y="3" width="509" height="522" frameX="-218" frameY="-643" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0003" x="1448" y="3" width="545" height="554" frameX="-179" frameY="-616" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0004" x="1996" y="3" width="582" height="555" frameX="-150" frameY="-592" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0005" x="2581" y="3" width="554" height="610" frameX="-171" frameY="-529" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0006" x="3138" y="3" width="620" height="597" frameX="-146" frameY="-504" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0007" x="3761" y="3" width="614" height="642" frameX="-116" frameY="-455" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0008" x="4378" y="3" width="671" height="678" frameX="-81" frameY="-404" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0009" x="5052" y="3" width="691" height="667" frameX="-78" frameY="-383" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0010" x="5746" y="3" width="629" height="688" frameX="-98" frameY="-376" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0011" x="6378" y="3" width="702" height="636" frameX="-67" frameY="-343" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0012" x="7083" y="3" width="684" height="751" frameX="-87" frameY="-246" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0013" x="3" y="757" width="753" height="726" frameX="-50" frameY="-244" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0014" x="759" y="757" width="750" height="749" frameX="-28" frameY="-218" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0015" x="1512" y="757" width="762" height="773" frameX="-60" frameY="-167" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0016" x="2277" y="757" width="798" height="766" frameX="-55" frameY="-146" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0017" x="3078" y="757" width="721" height="811" frameX="-89" frameY="-117" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0018" x="3802" y="757" width="795" height="739" frameX="-20" frameY="-138" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0019" x="4600" y="757" width="739" height="811" frameX="-86" frameY="-84" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0020" x="5342" y="757" width="848" height="786" frameX="-52" frameY="-85" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0021" x="6193" y="757" width="797" height="857" frameX="-65" frameY="-37" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0022" x="6993" y="757" width="827" height="832" frameX="-41" frameY="-22" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0023" x="3" y="1617" width="805" height="815" frameX="-80" frameY="-47" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0024" x="811" y="1617" width="819" height="824" frameX="-79" frameY="-37" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0025" x="1633" y="1617" width="813" height="803" frameX="-71" frameY="-36" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0026" x="2449" y="1617" width="762" height="785" frameX="-93" frameY="0" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0027" x="3214" y="1617" width="765" height="756" frameX="-101" frameY="-50" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0028" x="3982" y="1617" width="734" height="778" frameX="-121" frameY="-41" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0029" x="4719" y="1617" width="761" height="708" frameX="-98" frameY="-63" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0030" x="5483" y="1617" width="684" height="737" frameX="-144" frameY="-9" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0031" x="6170" y="1617" width="728" height="689" frameX="-118" frameY="-70" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0032" x="6901" y="1617" width="663" height="747" frameX="-152" frameY="-45" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0033" x="3" y="2444" width="742" height="668" frameX="-105" frameY="-64" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0034" x="748" y="2444" width="658" height="719" frameX="-154" frameY="-12" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0035" x="1409" y="2444" width="720" height="661" frameX="-122" frameY="-80" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0036" x="2132" y="2444" width="1289" height="789" frameX="-105" frameY="-182" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0037" x="3424" y="2444" width="1437" height="1039" frameX="0" frameY="-208" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0038" x="3424" y="2444" width="1437" height="1039" frameX="0" frameY="-208" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0039" x="4864" y="2444" width="1295" height="1007" frameX="-149" frameY="-117" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0040" x="4864" y="2444" width="1295" height="1007" frameX="-149" frameY="-117" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0041" x="6162" y="2444" width="1271" height="976" frameX="-140" frameY="-119" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0042" x="6162" y="2444" width="1271" height="976" frameX="-140" frameY="-119" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0043" x="3" y="3486" width="1290" height="1061" frameX="-106" frameY="-151" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0044" x="3" y="3486" width="1290" height="1061" frameX="-106" frameY="-151" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0045" x="1296" y="3486" width="1357" height="1049" frameX="-89" frameY="-113" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0046" x="1296" y="3486" width="1357" height="1049" frameX="-89" frameY="-113" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0047" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0048" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0049" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0050" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0051" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0052" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0053" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0054" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+	<SubTexture name="can0055" x="2656" y="3486" width="1355" height="989" frameX="-78" frameY="-114" frameWidth="1446" frameHeight="1247"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+{
+	"storyName": "hating simulator",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week5-V",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		["Senpai-V", "senpai-pixel", [255, 120, 191]],
+		["Roses-V", "senpai-pixel", [255, 120, 191]],
+		["Thorns-V", "spirit-pixel", [255, 120, 191]]
+	],
+	"hideStoryMode": false,
+	"difficulties": "easy,Normal,hard,electrified",
+	"weekName": "Week 6-V"
+}

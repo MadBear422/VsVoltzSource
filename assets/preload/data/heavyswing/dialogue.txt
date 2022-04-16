@@ -1,0 +1,6 @@
+p2:ohyeah?-flipped:Alright, I've summoned you two back here because I've got a score to settle.:750/
+bf:idle:Beep?:750/
+p2:shock-flipped:Do you seriously not remember me? We've been through this before!:750/
+bf:confused:…:750/
+bf:troll:Pico?:750/
+crowd:unnamed_8:SON OF A BI-:750

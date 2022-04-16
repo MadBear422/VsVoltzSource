@@ -1,0 +1,10 @@
+p2:mybad:Ok! This ordeal has been an... "experience.":800/
+p2:pointback:But I've been here all day, I think it's time I get goin'.:750/
+crowd:an-angry-mob:*anger noises*:750/
+p2:shock:Huh?:750/
+crowd:unnamed_7:WHERE'S THE THIRD PHASE?!:750/
+p2:what:What on earth are you people talking about?:750/
+crowd:karen:YOU NEED AN OVER DRAMATIC EDGY THIRD PHASE!:750/
+p2:what:Seriously?:750/
+bf:sigh:Think about how I feel.:800/
+p2:shrug:Well, I guess I can't reason with crazy.

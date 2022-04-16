@@ -1,0 +1,48 @@
+1:DanVoltz:Dan:Director&Musician&Voice Of Voltz:BROWNBRICKS//www.youtube.com/channel/UC7dmhduVprBZypLJm46xiEg
+2:MindOfTheEye:Mote:Main Musician&Strawberry Float&Too Many Eyes:BROWNBRICKS//twitter.com/mindoftheeye1?lang=en
+3:Hooda:Hooda:Covers&Lightswing Instrumental&Homestretch:BROWNBRICKS//www.youtube.com/user/MrKillaDemon
+4:iFlicky:iFlicky:Musician&Tangroove Instrumental:BROWNBRICKS//www.youtube.com/channel/UCd_cW1JAfelCjFWX03UAW5w
+5:DPZ:DPZ:Checkpoint Instrumental:BROWNBRICKS//www.youtube.com/c/DPZmusic
+6:HugeNate:HugeNate:Musician&Cutscene Scores&LET ME HIT YOU!:BROWNBRICKS//www.youtube.com/c/hugenate
+7:Kalpy:Kalpy:Musician&Fizz Composer&Needs More Recognition:BROWNBRICKS//twitter.com/Kalpy19
+8:Rinniran:Rinniran:Musician&Rolecall&Hi Rinni!:BROWNBRICKS//twitter.com/Infinity_Draws
+9:Amber_mp3:Amber_mp3:Musician&Twomah&LMHY:BROWNBRICKS//twitter.com/amber_mp3
+10:HAVOC:Havoc:Musician&Art Gallery&Movies Gallery:BROWNBRICKS//www.youtube.com/channel/UChzvlwE2ExSZ4sZRNNawR5g
+11:TheEnderCreep:TheEnderCreep:Sprite Animator&Introduction Can Animation:BROWNBRICKS//twitter.com/TheEnderCreepYT
+12:FlanTheMan:FlanTheMan:Main Animator&Did Most Sprites&Where Are My Miss Sprites?:BROWNBRICKS//twitter.com/F14nTh3M4n
+13:SunkyDunky:SunkyDunky:Sprite Animator&GodVoltz Particle Graphic&Unlocked Voltz Cutscene:BROWNBRICKS//twitter.com/RealSunkyDunky
+14:Bonk:Bonk:Sprite Animatior&All Cat Animations:BROWNBRICKS//twitter.com/BinkBoinkBonk
+15:Ebola:Ebola:Sprite Animatior&All Electrocution Animations:BROWNBRICKS//twitter.com/EbolaHorny
+16:Leomming:Leomming:Cutscene Animator&Sprite Animator&UI Animator (Take A Break):BROWNBRICKS//twitter.com/Leomming
+17:IGJH:IGJH:Pixel Artist&Week 6 Voltz Sprites&Cracked:BROWNBRICKS//twitter.com/igjhspritin
+18:Sieggy:Sieggy:THE HELPER&Week 6 XML's&Credits Sketches:BROWNBRICKS//twitter.com/SieniorGargoyle
+19:NonsenseNH:NonsenseNH:Cutscene Animator&All Anims for&Base Week Cutscenes&General Cleanup:BROWNBRICKS//twitter.com/nonsensenh
+20:Tossler:Tossler:Sprite Animator&Twomah Sprites&Voltz Character Reimagined:BROWNBRICKS//twitter.com/IdoBPerez
+21:ImBurger:ImBurger:Sprite Animator&SmallNate Animations&Pac-Man and DK Anims:BROWNBRICKS//twitter.com/MBorgor
+22:Racckoon:Racckoon:Sprite Animator&Slightswing Voltz Animations&The Inspiration:BROWNBRICKS//twitter.com/GirlWaluigi
+23:NickyRaccoon:NickyRaccoon:UI Artist&Vs Voltz Logo&Credits Sketches:BROWNBRICKS//mobile.twitter.com/nickyraccoon
+24:Offbi:Offbi:Cleanup Crew&Vs Voltz Logo HD&Redrawn Crowds:BROWNBRICKS//twitter.com/Officiallythat2
+25:Moxxie:Moxxie:Main Artist&UI Artist&Promotional Artist:BROWNBRICKS//twitter.com/Roaming_Pikachu
+26:Galosaur:Galosaur:UI Artist&Character Select Models:BROWNBRICKS//twitter.com/galosaur
+27:MadBear:MadBear:Main Coder&UI Designer&The Eggman:BROWNBRICKS//twitter.com/MadBear422
+28:Sajiarts:Sajiarts:UI Artist&Character Logos,&Dialogue Boxes Design:BROWNBRICKS//twitter.com/sajiarts
+29:ThePickledOne:ThePickledOne:Coder&Midsong Event Manager&Charter:BROWNBRICKS//twitter.com/pickled_bastard
+30:OrbyyOrbinaut:OrbyyOrbinaut:Pixel Artist&W6 Spark Note Anims&Week 6 Health Icons:BROWNBRICKS//twitter.com/OrbyyNew
+31:Munky:Munky:Coder&UI Concept Artist&Stage Builder:BROWNBRICKS//twitter.com/munkyfr_
+32:4Axion:4Axion:UI Coder&Sound Test&Extras Menu:BROWNBRICKS//twitter.com/4Axion_dev
+33:Nautical:Nautical:UI Artist&Art Gallery&Movies Gallery:BROWNBRICKS//twitter.com/nauticallll
+34:EllisBros:Ellisbros:UI Artist&Sound Test&Credits Menu:BROWNBRICKS//twitter.com/EllisBros
+35:Azeria:Azeria:Background Artist&Ball Game Background&Credits Sketche:BROWNBRICKS//twitter.com/Azeriaa2
+36:ZackyWacky:ZackyWacky:Background Artist&Gym Animations&Scrapped Egg+&Pokémon Animations:BROWNBRICKS//twitter.com/ZacZora
+37:HenryVRaptor:HenryVRaptor:Pixel Artist&Senpai Promotional Render&Rematch Background:BROWNBRICKS//twitter.com/ChillinRaptor
+38:Crae:Crae:Cutscene Animator&Transformation Cutscene&Vs Pip Is Cool!:BROWNBRICKS//twitter.com/Crae_YT
+39:Fifleo:Fifleo:Cutscene Animator&Checkpoint Ending Cutscene&(Too Many Leos):BROWNBRICKS//twitter.com/fif_leo15
+40:Niffirg:Niffirg:Charter&All Second Week Charts&PMuch All Swing Songs:BROWNBRICKS//twitter.com/n1ffirg
+41:KevinKuntz:KevinKuntz:Gameplay Coder&Bug Fixer&General Cleanup:BROWNBRICKS//gamebanana.com/members/1415992
+42:!Moon:!Moon:Coder&Voltz Week Dialogue&Asset Preloader:BROWNBRICKS//twitter.com/ZackDroidCoder
+43:Noosh:Noosh:Coder&Midsong Cutscene Coder&Bug Fixes:BROWNBRICKS//twitter.com/NooshStuff
+44:Sector:Sector:Coder&GodVoltz Particles&GodVoltz Character:BROWNBRICKS//twitter.com/Sector0003
+45:Twostory:Twostory:UI Coder&Main Menu&Puppet FNAF:BROWNBRICKS//twitter.com/Two_Stinky
+46:RecD:RecD:Voice Actor&Voice Of BF& Voice Of Pico:BROWNBRICKS//twitter.com/RecDTRH
+47:Wither:Wither:UI Artist&Credits Sketches&Lightswing Stan:BROWNBRICKS//twitter.com/DatWither
+48:Credits&Expansion:Expand:Takes You To The&Full Credits List&(There IS A LOT):BROWNBRICKS//docs.google.com/document/d/1Df8ne1QEIATX2pxxwTyQow_1mJNrV5fCk5gTEssqbsM/edit?usp=sharing

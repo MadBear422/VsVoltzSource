@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Bopeebo-V", "dad", [146, 113, 253]],
+		["Fresh-V", "dad", [146, 113, 253]],
+		["Dad Battle-V", "dad", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	
+	"weekBackground": "stage",
+	"storyName": "Daddy Dearest",
+	"difficulties": "Easy,Normal,hard,electrified",
+	"weekBefore": "tutorial-V",
+	"weekName": "Week 1-V",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

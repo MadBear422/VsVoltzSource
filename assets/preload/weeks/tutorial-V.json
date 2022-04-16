@@ -1,0 +1,23 @@
+{
+	"storyName": "Tutorial",
+	"difficulties": "easy,Normal,hard,electrified",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		208,
+		159,
+		90
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		["Meowmix", "cat", [208, 159, 90]]
+	],
+	"weekCharacters": [
+		"cat",
+		"voltz",
+		"gf"
+	],
+	"weekName": "Tutorial-V"
+}

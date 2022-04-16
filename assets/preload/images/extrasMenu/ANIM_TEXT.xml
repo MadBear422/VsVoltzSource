@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ANIM_TEXT.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back_hover0000" x="2" y="2" width="464" height="210" frameX="-1" frameY="0" frameWidth="475" frameHeight="213"/>
+	<SubTexture name="back_hover0001" x="2" y="2" width="464" height="210" frameX="-1" frameY="0" frameWidth="475" frameHeight="213"/>
+	<SubTexture name="back_hover0002" x="468" y="2" width="466" height="210" frameX="0" frameY="0" frameWidth="475" frameHeight="213"/>
+	<SubTexture name="back_hover0003" x="468" y="2" width="466" height="210" frameX="0" frameY="0" frameWidth="475" frameHeight="213"/>
+	<SubTexture name="back_hover0004" x="936" y="2" width="462" height="213" frameX="-13" frameY="0" frameWidth="475" frameHeight="213"/>
+	<SubTexture name="back_hover0005" x="936" y="2" width="462" height="213" frameX="-13" frameY="0" frameWidth="475" frameHeight="213"/>
+	<SubTexture name="artwork_idle0000" x="1400" y="2" width="571" height="157" frameX="-1" frameY="-4" frameWidth="580" frameHeight="161"/>
+	<SubTexture name="artwork_idle0001" x="1400" y="2" width="571" height="157" frameX="-1" frameY="-4" frameWidth="580" frameHeight="161"/>
+	<SubTexture name="artwork_idle0002" x="1973" y="2" width="574" height="160" frameX="-6" frameY="0" frameWidth="580" frameHeight="161"/>
+	<SubTexture name="artwork_idle0003" x="1973" y="2" width="574" height="160" frameX="-6" frameY="0" frameWidth="580" frameHeight="161"/>
+	<SubTexture name="artwork_idle0004" x="2549" y="2" width="576" height="155" frameX="0" frameY="-4" frameWidth="580" frameHeight="161"/>
+	<SubTexture name="artwork_idle0005" x="2549" y="2" width="576" height="155" frameX="0" frameY="-4" frameWidth="580" frameHeight="161"/>
+	<SubTexture name="artwork_hover0000" x="3127" y="2" width="700" height="210" frameX="-8" frameY="-5" frameWidth="716" frameHeight="227"/>
+	<SubTexture name="artwork_hover0001" x="3127" y="2" width="700" height="210" frameX="-8" frameY="-5" frameWidth="716" frameHeight="227"/>
+	<SubTexture name="artwork_hover0002" x="2" y="217" width="716" height="225" frameX="0" frameY="0" frameWidth="716" frameHeight="227"/>
+	<SubTexture name="artwork_hover0003" x="2" y="217" width="716" height="225" frameX="0" frameY="0" frameWidth="716" frameHeight="227"/>
+	<SubTexture name="artwork_hover0004" x="720" y="217" width="713" height="221" frameX="-1" frameY="-6" frameWidth="716" frameHeight="227"/>
+	<SubTexture name="artwork_hover0005" x="720" y="217" width="713" height="221" frameX="-1" frameY="-6" frameWidth="716" frameHeight="227"/>
+	<SubTexture name="back0000" x="1435" y="217" width="297" height="125" frameX="-3" frameY="0" frameWidth="304" frameHeight="126"/>
+	<SubTexture name="back0001" x="1435" y="217" width="297" height="125" frameX="-3" frameY="0" frameWidth="304" frameHeight="126"/>
+	<SubTexture name="back0002" x="1734" y="217" width="300" height="125" frameX="-2" frameY="-1" frameWidth="304" frameHeight="126"/>
+	<SubTexture name="back0003" x="1734" y="217" width="300" height="125" frameX="-2" frameY="-1" frameWidth="304" frameHeight="126"/>
+	<SubTexture name="back0004" x="2036" y="217" width="304" height="124" frameX="0" frameY="-1" frameWidth="304" frameHeight="126"/>
+	<SubTexture name="back0005" x="2036" y="217" width="304" height="124" frameX="0" frameY="-1" frameWidth="304" frameHeight="126"/>
+	<SubTexture name="char0000" x="2342" y="217" width="764" height="146" frameX="0" frameY="-3" frameWidth="765" frameHeight="160"/>
+	<SubTexture name="char0001" x="2342" y="217" width="764" height="146" frameX="0" frameY="-3" frameWidth="765" frameHeight="160"/>
+	<SubTexture name="char0002" x="3108" y="217" width="765" height="160"/>
+	<SubTexture name="char0003" x="3108" y="217" width="765" height="160"/>
+	<SubTexture name="char0004" x="2" y="444" width="764" height="153" frameX="-1" frameY="-6" frameWidth="765" frameHeight="160"/>
+	<SubTexture name="char0005" x="2" y="444" width="764" height="153" frameX="-1" frameY="-6" frameWidth="765" frameHeight="160"/>
+	<SubTexture name="char_hover0000" x="768" y="444" width="1163" height="227" frameX="-6" frameY="0" frameWidth="1176" frameHeight="227"/>
+	<SubTexture name="char_hover0001" x="768" y="444" width="1163" height="227" frameX="-6" frameY="0" frameWidth="1176" frameHeight="227"/>
+	<SubTexture name="char_hover0002" x="1933" y="444" width="1172" height="222" frameX="0" frameY="0" frameWidth="1176" frameHeight="227"/>
+	<SubTexture name="char_hover0003" x="1933" y="444" width="1172" height="222" frameX="0" frameY="0" frameWidth="1176" frameHeight="227"/>
+	<SubTexture name="char_hover0004" x="2" y="673" width="1176" height="220" frameX="0" frameY="-4" frameWidth="1176" frameHeight="227"/>
+	<SubTexture name="char_hover0005" x="2" y="673" width="1176" height="220" frameX="0" frameY="-4" frameWidth="1176" frameHeight="227"/>
+	<SubTexture name="dev0000" x="1180" y="673" width="290" height="145" frameX="0" frameY="0" frameWidth="293" frameHeight="146"/>
+	<SubTexture name="dev0001" x="1180" y="673" width="290" height="145" frameX="0" frameY="0" frameWidth="293" frameHeight="146"/>
+	<SubTexture name="dev0002" x="1472" y="673" width="290" height="142" frameX="-2" frameY="-3" frameWidth="293" frameHeight="146"/>
+	<SubTexture name="dev0003" x="1472" y="673" width="290" height="142" frameX="-2" frameY="-3" frameWidth="293" frameHeight="146"/>
+	<SubTexture name="dev0004" x="1764" y="673" width="289" height="143" frameX="-4" frameY="-3" frameWidth="293" frameHeight="146"/>
+	<SubTexture name="dev0005" x="1764" y="673" width="289" height="143" frameX="-4" frameY="-3" frameWidth="293" frameHeight="146"/>
+	<SubTexture name="dev_hover0000" x="2055" y="673" width="363" height="172" frameX="-3" frameY="-3" frameWidth="366" frameHeight="186"/>
+	<SubTexture name="dev_hover0001" x="2055" y="673" width="363" height="172" frameX="-3" frameY="-3" frameWidth="366" frameHeight="186"/>
+	<SubTexture name="dev_hover0002" x="2420" y="673" width="359" height="186" frameX="0" frameY="0" frameWidth="366" frameHeight="186"/>
+	<SubTexture name="dev_hover0003" x="2420" y="673" width="359" height="186" frameX="0" frameY="0" frameWidth="366" frameHeight="186"/>
+	<SubTexture name="dev_hover0004" x="2781" y="673" width="360" height="185" frameX="-1" frameY="0" frameWidth="366" frameHeight="186"/>
+	<SubTexture name="dev_hover0005" x="2781" y="673" width="360" height="185" frameX="-1" frameY="0" frameWidth="366" frameHeight="186"/>
+	<SubTexture name="extras0000" x="3143" y="673" width="406" height="138" frameX="-3" frameY="0" frameWidth="410" frameHeight="141"/>
+	<SubTexture name="extras0001" x="3143" y="673" width="406" height="138" frameX="-3" frameY="0" frameWidth="410" frameHeight="141"/>
+	<SubTexture name="extras0002" x="3551" y="673" width="410" height="134" frameX="0" frameY="-7" frameWidth="410" frameHeight="141"/>
+	<SubTexture name="extras0003" x="3551" y="673" width="410" height="134" frameX="0" frameY="-7" frameWidth="410" frameHeight="141"/>
+	<SubTexture name="extras0004" x="2" y="895" width="407" height="135" frameX="-2" frameY="-5" frameWidth="410" frameHeight="141"/>
+	<SubTexture name="extras0005" x="2" y="895" width="407" height="135" frameX="-2" frameY="-5" frameWidth="410" frameHeight="141"/>
+	<SubTexture name="extras_hover0000" x="411" y="895" width="610" height="199" frameX="0" frameY="0" frameWidth="628" frameHeight="200"/>
+	<SubTexture name="extras_hover0001" x="411" y="895" width="610" height="199" frameX="0" frameY="0" frameWidth="628" frameHeight="200"/>
+	<SubTexture name="extras_hover0002" x="1023" y="895" width="617" height="200" frameX="-5" frameY="0" frameWidth="628" frameHeight="200"/>
+	<SubTexture name="extras_hover0003" x="1023" y="895" width="617" height="200" frameX="-5" frameY="0" frameWidth="628" frameHeight="200"/>
+	<SubTexture name="extras_hover0004" x="1642" y="895" width="627" height="188" frameX="-1" frameY="-1" frameWidth="628" frameHeight="200"/>
+	<SubTexture name="extras_hover0005" x="1642" y="895" width="627" height="188" frameX="-1" frameY="-1" frameWidth="628" frameHeight="200"/>
+	<SubTexture name="gallery0000" x="2271" y="895" width="743" height="251" frameX="0" frameY="0" frameWidth="749" frameHeight="251"/>
+	<SubTexture name="gallery0001" x="2271" y="895" width="743" height="251" frameX="0" frameY="0" frameWidth="749" frameHeight="251"/>
+	<SubTexture name="gallery0002" x="3016" y="895" width="738" height="239" frameX="-5" frameY="-1" frameWidth="749" frameHeight="251"/>
+	<SubTexture name="gallery0003" x="3016" y="895" width="738" height="239" frameX="-5" frameY="-1" frameWidth="749" frameHeight="251"/>
+	<SubTexture name="gallery0004" x="2" y="1148" width="746" height="238" frameX="-3" frameY="0" frameWidth="749" frameHeight="251"/>
+	<SubTexture name="gallery0005" x="2" y="1148" width="746" height="238" frameX="-3" frameY="0" frameWidth="749" frameHeight="251"/>
+	<SubTexture name="gallery_hover0000" x="750" y="1148" width="845" height="240" frameX="0" frameY="-23" frameWidth="850" frameHeight="271"/>
+	<SubTexture name="gallery_hover0001" x="750" y="1148" width="845" height="240" frameX="0" frameY="-23" frameWidth="850" frameHeight="271"/>
+	<SubTexture name="gallery_hover0002" x="1597" y="1148" width="850" height="254" frameX="0" frameY="-11" frameWidth="850" frameHeight="271"/>
+	<SubTexture name="gallery_hover0003" x="1597" y="1148" width="850" height="254" frameX="0" frameY="-11" frameWidth="850" frameHeight="271"/>
+	<SubTexture name="gallery_hover0004" x="2449" y="1148" width="830" height="271" frameX="-4" frameY="0" frameWidth="850" frameHeight="271"/>
+	<SubTexture name="gallery_hover0005" x="2449" y="1148" width="830" height="271" frameX="-4" frameY="0" frameWidth="850" frameHeight="271"/>
+	<SubTexture name="movies_idle0000" x="3281" y="1148" width="440" height="150" frameX="-4" frameY="-7" frameWidth="448" frameHeight="160"/>
+	<SubTexture name="movies_idle0001" x="3281" y="1148" width="440" height="150" frameX="-4" frameY="-7" frameWidth="448" frameHeight="160"/>
+	<SubTexture name="movies_idle0002" x="2" y="1421" width="442" height="154" frameX="0" frameY="-4" frameWidth="448" frameHeight="160"/>
+	<SubTexture name="movies_idle0003" x="2" y="1421" width="442" height="154" frameX="0" frameY="-4" frameWidth="448" frameHeight="160"/>
+	<SubTexture name="movies_idle0004" x="446" y="1421" width="446" height="160" frameX="-2" frameY="0" frameWidth="448" frameHeight="160"/>
+	<SubTexture name="movies_idle0005" x="446" y="1421" width="446" height="160" frameX="-2" frameY="0" frameWidth="448" frameHeight="160"/>
+	<SubTexture name="movies_hover0000" x="894" y="1421" width="556" height="200" frameX="-6" frameY="-7" frameWidth="576" frameHeight="208"/>
+	<SubTexture name="movies_hover0001" x="894" y="1421" width="556" height="200" frameX="-6" frameY="-7" frameWidth="576" frameHeight="208"/>
+	<SubTexture name="movies_hover0002" x="1452" y="1421" width="567" height="198" frameX="0" frameY="-8" frameWidth="576" frameHeight="208"/>
+	<SubTexture name="movies_hover0003" x="1452" y="1421" width="567" height="198" frameX="0" frameY="-8" frameWidth="576" frameHeight="208"/>
+	<SubTexture name="movies_hover0004" x="2021" y="1421" width="575" height="208" frameX="-1" frameY="0" frameWidth="576" frameHeight="208"/>
+	<SubTexture name="movies_hover0005" x="2021" y="1421" width="575" height="208" frameX="-1" frameY="0" frameWidth="576" frameHeight="208"/>
+	<SubTexture name="sound0000" x="2598" y="1421" width="708" height="155" frameX="0" frameY="0" frameWidth="710" frameHeight="159"/>
+	<SubTexture name="sound0001" x="2598" y="1421" width="708" height="155" frameX="0" frameY="0" frameWidth="710" frameHeight="159"/>
+	<SubTexture name="sound0002" x="3308" y="1421" width="706" height="155" frameX="-4" frameY="-1" frameWidth="710" frameHeight="159"/>
+	<SubTexture name="sound0003" x="3308" y="1421" width="706" height="155" frameX="-4" frameY="-1" frameWidth="710" frameHeight="159"/>
+	<SubTexture name="sound0004" x="2" y="1631" width="700" height="157" frameX="-6" frameY="-2" frameWidth="710" frameHeight="159"/>
+	<SubTexture name="sound0005" x="2" y="1631" width="700" height="157" frameX="-6" frameY="-2" frameWidth="710" frameHeight="159"/>
+	<SubTexture name="sound_hover0000" x="704" y="1631" width="968" height="247" frameX="-16" frameY="-3" frameWidth="995" frameHeight="250"/>
+	<SubTexture name="sound_hover0001" x="704" y="1631" width="968" height="247" frameX="-16" frameY="-3" frameWidth="995" frameHeight="250"/>
+	<SubTexture name="sound_hover0002" x="1674" y="1631" width="970" height="247" frameX="-7" frameY="0" frameWidth="995" frameHeight="250"/>
+	<SubTexture name="sound_hover0003" x="1674" y="1631" width="970" height="247" frameX="-7" frameY="0" frameWidth="995" frameHeight="250"/>
+	<SubTexture name="sound_hover0004" x="2646" y="1631" width="995" height="250"/>
+	<SubTexture name="sound_hover0005" x="2646" y="1631" width="995" height="250"/>
+</TextureAtlas>

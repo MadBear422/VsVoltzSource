@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gymBlue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spinDown 0000" x="0" y="0" width="97" height="211"/>
+	<SubTexture name="spinDown 0001" x="97" y="0" width="97" height="211"/>
+	<SubTexture name="spinDown 0002" x="194" y="0" width="97" height="211"/>
+	<SubTexture name="spinDown 0003" x="291" y="0" width="97" height="211"/>
+	<SubTexture name="spinDown 0004" x="388" y="0" width="97" height="210" frameX="0" frameY="-1" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinDown 0005" x="485" y="0" width="97" height="205" frameX="0" frameY="-6" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinDown 0006" x="582" y="0" width="97" height="197" frameX="0" frameY="-14" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinDown 0007" x="679" y="0" width="97" height="187" frameX="0" frameY="-24" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinDown 0008" x="776" y="0" width="97" height="184" frameX="0" frameY="-27" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinDown 0009" x="873" y="0" width="97" height="183" frameX="0" frameY="-28" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinDown 0010" x="0" y="211" width="97" height="183" frameX="0" frameY="-28" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinDown 0011" x="97" y="211" width="97" height="183" frameX="0" frameY="-28" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0000" x="97" y="211" width="97" height="183" frameX="0" frameY="-28" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0001" x="194" y="211" width="97" height="183" frameX="0" frameY="-28" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0002" x="291" y="211" width="97" height="184" frameX="0" frameY="-27" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0003" x="388" y="211" width="97" height="187" frameX="0" frameY="-24" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0004" x="485" y="211" width="97" height="196" frameX="0" frameY="-15" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0005" x="582" y="211" width="97" height="205" frameX="0" frameY="-6" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0006" x="679" y="211" width="97" height="210" frameX="0" frameY="-1" frameWidth="97" frameHeight="211"/>
+	<SubTexture name="spinUp 0007" x="776" y="211" width="97" height="211"/>
+	<SubTexture name="spinUp 0008" x="873" y="211" width="97" height="211"/>
+	<SubTexture name="spinUp 0009" x="0" y="422" width="97" height="211"/>
+	<SubTexture name="spinUp 0010" x="97" y="422" width="97" height="211"/>
+	<SubTexture name="spinUp 0011" x="194" y="422" width="97" height="211"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+p2:ohyeah?:Alright, that was pretty fun!:750/
+bf:idle:bep:750/
+p2:facepalm:Dude.:750/
+bf:mybad:Sorry, force of habit!:800/
+p2:seriously?:Your habit is making car sounds?:800/
+bf:._.:I had a questionable childhood.:800/
+p2:ehh:So does your car make human sounds or some shit?:800/
+bf:ehh:Can we just play the next song already?:700/
+p2:yeah:On it!:750

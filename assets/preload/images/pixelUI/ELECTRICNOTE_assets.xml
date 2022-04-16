@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ElectroNote.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="50" y="0" width="25" height="42"/>
+	<SubTexture name="blue0001" x="50" y="0" width="25" height="42"/>
+	<SubTexture name="blue0002" x="50" y="0" width="25" height="42"/>
+	<SubTexture name="blue0003" x="50" y="42" width="25" height="42"/>
+	<SubTexture name="blue0004" x="50" y="42" width="25" height="42"/>
+	<SubTexture name="blue0005" x="50" y="42" width="25" height="42"/>
+	<SubTexture name="blue0006" x="50" y="84" width="25" height="42"/>
+	<SubTexture name="blue0007" x="50" y="84" width="25" height="42"/>
+	<SubTexture name="blue0008" x="50" y="84" width="25" height="42"/>
+	<SubTexture name="blue0009" x="50" y="126" width="25" height="42"/>
+	<SubTexture name="blue0010" x="50" y="126" width="25" height="42"/>
+	<SubTexture name="blue0011" x="50" y="126" width="25" height="42"/>
+	<SubTexture name="purple0000" x="25" y="84" width="25" height="42"/>
+	<SubTexture name="purple0001" x="25" y="84" width="25" height="42"/>
+	<SubTexture name="purple0002" x="25" y="84" width="25" height="42"/>
+	<SubTexture name="purple0003" x="25" y="126" width="25" height="42"/>
+	<SubTexture name="purple0004" x="25" y="126" width="25" height="42"/>
+	<SubTexture name="purple0005" x="25" y="126" width="25" height="42"/>
+	<SubTexture name="purple0006" x="25" y="168" width="25" height="42"/>
+	<SubTexture name="purple0007" x="25" y="168" width="25" height="42"/>
+	<SubTexture name="purple0008" x="25" y="168" width="25" height="42"/>
+	<SubTexture name="purple0009" x="25" y="210" width="25" height="42"/>
+	<SubTexture name="purple0010" x="25" y="210" width="25" height="42"/>
+	<SubTexture name="purple0011" x="25" y="210" width="25" height="42"/>
+	<SubTexture name="red0000" x="0" y="0" width="25" height="42"/>
+	<SubTexture name="red0001" x="0" y="0" width="25" height="42"/>
+	<SubTexture name="red0002" x="0" y="0" width="25" height="42"/>
+	<SubTexture name="red0003" x="0" y="42" width="25" height="42"/>
+	<SubTexture name="red0004" x="0" y="42" width="25" height="42"/>
+	<SubTexture name="red0005" x="0" y="42" width="25" height="42"/>
+	<SubTexture name="red0006" x="0" y="84" width="25" height="42"/>
+	<SubTexture name="red0007" x="0" y="84" width="25" height="42"/>
+	<SubTexture name="red0008" x="0" y="84" width="25" height="42"/>
+	<SubTexture name="red0009" x="0" y="126" width="25" height="42"/>
+	<SubTexture name="red0010" x="0" y="126" width="25" height="42"/>
+	<SubTexture name="red0011" x="0" y="126" width="25" height="42"/>
+	<SubTexture name="green0000" x="0" y="168" width="25" height="42"/>
+	<SubTexture name="green0001" x="0" y="168" width="25" height="42"/>
+	<SubTexture name="green0002" x="0" y="168" width="25" height="42"/>
+	<SubTexture name="green0003" x="0" y="210" width="25" height="42"/>
+	<SubTexture name="green0004" x="0" y="210" width="25" height="42"/>
+	<SubTexture name="green0005" x="0" y="210" width="25" height="42"/>
+	<SubTexture name="green0006" x="25" y="0" width="25" height="42"/>
+	<SubTexture name="green0007" x="25" y="0" width="25" height="42"/>
+	<SubTexture name="green0008" x="25" y="0" width="25" height="42"/>
+	<SubTexture name="green0009" x="25" y="42" width="25" height="42"/>
+	<SubTexture name="green0010" x="25" y="42" width="25" height="42"/>
+	<SubTexture name="green0011" x="25" y="42" width="25" height="42"/>
+</TextureAtlas>

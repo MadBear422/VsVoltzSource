@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vsVoltz.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Voltz Alt DRINK0000" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0001" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0002" x="1751" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0003" x="1751" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0004" x="2334" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0005" x="2334" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0006" x="2917" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0007" x="2917" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0008" x="2917" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0009" x="2917" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0010" x="3500" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0011" x="3500" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0012" x="100" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0013" x="100" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0014" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0015" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0016" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0017" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0018" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0019" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0020" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0021" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0022" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0023" x="683" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0024" x="1266" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0025" x="1266" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0026" x="1849" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0027" x="1849" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0028" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0029" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0030" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0031" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0032" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0033" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0034" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0035" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0036" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0037" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0038" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0039" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0040" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0041" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0042" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0043" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0044" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0045" x="2432" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0046" x="3015" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0047" x="3015" y="3013" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0048" x="100" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0049" x="100" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0050" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0051" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0052" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0053" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0054" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0055" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0056" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0057" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0058" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0059" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0060" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0061" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0062" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0063" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0064" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0065" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0066" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0067" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0068" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0069" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0070" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0071" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0072" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0073" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0074" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0075" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0076" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0077" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0078" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0079" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0080" x="683" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0081" x="1266" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0082" x="1266" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0083" x="1849" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0084" x="1849" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0085" x="2432" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0086" x="2432" y="3659" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0087" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0088" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0089" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0090" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0091" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz Alt DRINK0092" x="1168" y="2360" width="483" height="546"/>
+	<SubTexture name="Voltz COME ON0000" x="100" y="100" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0001" x="936" y="100" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0002" x="936" y="100" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0003" x="1772" y="100" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0004" x="1772" y="100" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0005" x="2608" y="100" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0006" x="2608" y="100" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0007" x="100" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0008" x="100" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0009" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0010" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0011" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0012" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0013" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0014" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0015" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0016" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0017" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0018" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0019" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0020" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0021" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0022" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0023" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0024" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0025" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0026" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0027" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0028" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0029" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0030" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0031" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0032" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0033" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0034" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0035" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0036" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0037" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0038" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0039" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0040" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0041" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0042" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0043" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0044" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0045" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0046" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0047" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0048" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0049" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0050" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0051" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0052" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0053" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0054" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0055" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0056" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0057" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0058" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0059" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0060" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0061" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0062" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0063" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0064" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0065" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz COME ON0066" x="936" y="913" width="736" height="713"/>
+	<SubTexture name="Voltz Down0000" x="1772" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0001" x="1772" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0002" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0003" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0004" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0005" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0006" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0007" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0008" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0009" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0010" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0011" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0012" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Down0013" x="2261" y="913" width="389" height="502"/>
+	<SubTexture name="Voltz Idle0000" x="2750" y="913" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0001" x="2750" y="913" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0002" x="3336" y="913" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0003" x="3336" y="913" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0004" x="100" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0005" x="100" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0006" x="686" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0007" x="686" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0008" x="1272" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0009" x="1272" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0010" x="1272" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0011" x="1272" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0012" x="1272" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Idle0013" x="1272" y="1726" width="486" height="534"/>
+	<SubTexture name="Voltz Left0000" x="1858" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0001" x="1858" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0002" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0003" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0004" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0005" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0006" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0007" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0008" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0009" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0010" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0011" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0012" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Left0013" x="2394" y="1726" width="436" height="530"/>
+	<SubTexture name="Voltz Right 0000" x="2930" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0001" x="2930" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0002" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0003" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0004" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0005" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0006" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0007" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0008" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0009" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0010" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0011" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0012" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Right 0013" x="3369" y="1726" width="339" height="529"/>
+	<SubTexture name="Voltz Up 0000" x="100" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0001" x="100" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0002" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0003" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0004" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0005" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0006" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0007" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0008" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0009" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0010" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0011" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0012" x="634" y="2360" width="434" height="553"/>
+	<SubTexture name="Voltz Up 0013" x="634" y="2360" width="434" height="553"/>
+</TextureAtlas>

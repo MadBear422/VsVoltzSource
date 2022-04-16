@@ -1,0 +1,47 @@
+1:DanVoltz:Dan:Director&Meowmix (Instrumental),&Fizz (Additional Assistance),&Slightswing (Instrumental),&Rolecall (Additional Assistance),&Characters Menu,&Spark Studios Logo,&Title Screen + Intro&Animation (concept),&Main Menu Colors+Cleanup,&Character Select Concept,&Week Select Concept,&Dialogue Boxes Concept,&Checkpoint Countdown Graphic,&Homestretch Stage Finish&Graphic, Freeplay Selection&Concept, Extras Menu,&Gallery Selection,&Sound Test, Who’s Voltz?,&Additional Background Effects,&Cutscene Sound Design,&All Editing,&Transformation Cutscene,&1/2 Unlocked Voltz Cutscene,&Week 2 Opening Cutscene,&Week 6 Opening Cutscene,&Homestretch Midsong Cutscene 1,&Homestretch Midsong Cutscene 2,&Credits Sequences,&Midsong Chart Events
+2:MindOfTheEye:Mote:Lightswing (Vocals), Checkpoint (Vocals),&Meowmix (Vocals),Heavyswing (Vocals),&Homestretch (Additional Assistance),&Rolecall (Additional Assistance),&Main Menu, Game Over, Game Over (W6),&It’s Voltz! (Cutscene Score 3).
+3:Hooda:Hooda:Lightswing (Instrumental),&Homestretch,&Base Game Covers (W1, W2, W3, W5)
+4:iFlicky:iFlicky:Tangroove (Instrumental)
+5:DPZ:DPZ:Checkpoint (Instrumental)
+6:HugeNate:HugeNate:Heavyswing (Instrumental),&LMHY (Additional Assistance),&A New Challenger (Cutscene Score 1),&Overdoing It (Cutscene Score 2),&Checkpoint Chart,&
+7:Kalpy:Kalpy:discription
+8:Rinniran:Rinniran:Fizz (Additional Assistance),&Rolecall
+9:Amber_mp3:Amber_mp3:Base Game Covers (W4, W6),&Twomah, LMHY
+10:HAVOC:Havoc:Art Gallery,&Movies Gallery
+11:TheEnderCreep:TheEnderCreep:Introduction Can &Animation
+12:FlanTheMan:FlanTheMan:Title Screen Animations,&Dialogue Sprites,&Opponent Voltz,&Hyped Boyfriend Animations,&Voltz Base Game Animations,&Voltz Alt Costumes,&SansVoltz, PHaSE Voltz,&Hyped Groucho Voltz,&Hyped Voltz Animations,&Opponent Boyfriend Animations,&Voltz Week Select Logos,&Extra Text Options,&Dialogue Boxes Animations,&Groucho Health Icons,&PHaSE Voltz Icons,&Additional Background Effects,&Ball Game Opening Cutscene,&Transformation Cutscene,&Unlocked Voltz Cutscene,&Meowmix Opening Cutscene,&Homestretch Ending Cutscene
+13:SunkyDunky:SunkyDunky:Title Screen Animations &(Added Effects),&GodVoltz Particle Graphic,&Unlocked Voltz Cutscene
+14:Bonk:Bonk:All Cat Animations
+15:Ebola:Ebola:All Electrocution&Animations
+16:Leomming:Leomming:Groucho Glasses,&Death Animation&(Playable Voltz),&Vs Voltz Logo,&Spark Note Animations,&Extra Text Options,&Additional Background Effects,&Background Assistance for&Rematch,&Rolecall Background Assets,&Ball Game (Week V1) Opening Cutscene,&Week 4 Opening Cutscene,&Rematch (Week V2) Opening Cutscene,&Homestretch Ending Cutscene
+17:IGJH:IGJH:Week 6 Dialogue&Sprites,&W6 Voltz Animations,&Week 6 Health Icons,&All Sprite Work for&Week 6 Opening Cutscene
+18:Sieggy:Sieggy:Week 6 XML's,&Credits Sketches
+19:NonsenseNH:Nonsense:Additional Cleanup,&Groucho Glasses&(Playable Voltz),&All Animations for&Base Week Opening Cutscenes
+20:Tossler:Tossler:Twomah Sprites,&Voltz Character Reimagined,&Extra Assets for W1&and W2 Cutscenes
+21:ImBurger:ImBurger:SmallNate Animations,&Pac-Man & DK Animations
+22:Racckoon:Racckoon:Slightswing Voltz&Animations
+23:NickyRaccoon:NickyRaccoon:Vs Voltz Logo,&Credits Sketches
+24:Offbi:Offbi:Vs Voltz Logo HD,&Credits Sketches,&Redrawn+Extra Crowd Assets&for Ball Game
+25:Moxxie:Moxxie:All Main Character Artwork,&All Menu Sketches,&Freeplay Selection,&Artist Skid&Movies Pump,&Who’s Voltz? Button,&All New Health Icons,&Rematch Crowd Characters,&LMHY Background Assets
+26:Galosaur:Galosaur:Character Select(3D)
+27:MadBear:MadBear:Week Select,&Pokéball Transition,&Credits Sketches,&Main Menu Programming,&Extras Menu Programming,&Story Mode Menu Programming,&Character Select Programming,&Characters Menu Programming,&Loading Screens Programming,&Galleries Programming,&Other WACKY features! - MadBear
+28:Sajiarts:Sajiarts:Character Art,&All Character Logos,&Dialogue Boxes,&Twomah Background Assets
+29:ThePickledOne:ThePickledOne:Electrified Difficulty Asset,&All Base Game Recharts,&Electrified Charts,&All Extra Difficulty Charts,&Checkpoint chart,&Homestretch Chart,&Twomah Chart,&LMHY Chart,&Slightswing Chart
+30:OrbyyOrbinaut:OrbyyOrbinaut:Week 6 Spark Note&Animations,&Week 6 Health Icons
+31:Munky:Munky:Freeplay Selection,&Ball Game (Week V1) Stages,&Various Bug Fixes + Cleanup
+32:4Axion:4Axion:Extras Menu,&Sound Test,&Sound Test Programming,&Freeplay Selection Programming,&Brown Bricks?? Programming,&Credits Menu Programming
+33:Nautical:Nautical:Art Gallery,&Movies Gallery
+34:EllisBros:Ellisbros:Sound Test
+35:Azeria:Azeria:Credits Sketches,&Main Background Assets&for Ball Game
+36:ZackyWacky:ZackyWacky:Pokémon GO Gym Animations,&Scrapped Egg+Pokémon Animations
+37:HenryVRaptor:HenryVRaptor:Senpai Promotional&Render/Artwork,&Senpai Logo,&Main Rematch Background Assets 
+38:Crae:Crae:Transformation Cutscene
+39:Fifleo:Fifleo:Checkpoint Ending Cutscene
+40:Niffirg:Niffirg:Lightswing Chart,&Tangroove Chart,&Heavyswing Chart,&Fizz Chart,&Homestretch Chart,&Rolecall Chart
+41:KevinKuntz:KevinKuntz:Midsong Chart Events,&Midsong Events Manager,&Shaders,&Electrocution Notes,&Overall Cleanup + Bug Fixes
+42:!Moon:!Moon:Voltz Week Dialogue,&Asset Preloader,&Various Bug Fixes
+43:Noosh:Noosh:Director
+44:Sector:Sector:Director
+45:Twostory:Twostory:Director
+46:RecD:RecD:Director
+47:Wither:Wither:Director

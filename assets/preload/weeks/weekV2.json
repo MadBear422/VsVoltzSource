@@ -1,0 +1,49 @@
+{
+	"storyName": "Rematch",
+	"difficulties": "easy,Normal,hard,electrified",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		246,
+		108,
+		55
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Heavyswing",
+			"bf",
+			[
+				246,
+				108,
+				55
+			]
+		],
+		[
+			"Fizz",
+			"bf",
+			[
+				246,
+				108,
+				55
+			]
+		],
+		[
+			"Homestretch",
+			"bf",
+			[
+				246,
+				108,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Voltz2"
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="balloonDusk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bump 10000" x="0" y="0" width="85" height="132" frameX="0" frameY="-6" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10001" x="0" y="0" width="85" height="132" frameX="0" frameY="-6" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10002" x="85" y="0" width="81" height="134" frameX="-2" frameY="-4" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10003" x="85" y="0" width="81" height="134" frameX="-2" frameY="-4" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10004" x="166" y="0" width="78" height="137" frameX="-3" frameY="-1" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10005" x="166" y="0" width="78" height="137" frameX="-3" frameY="-1" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10006" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10007" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10008" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10009" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10010" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10011" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10012" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+	<SubTexture name="bump 10013" x="244" y="0" width="76" height="137" frameX="-4" frameY="0" frameWidth="85" frameHeight="138"/>
+</TextureAtlas>

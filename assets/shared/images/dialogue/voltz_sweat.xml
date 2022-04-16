@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voltz_sweat.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Voltz port 9 flipped0000" x="40" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0001" x="40" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0002" x="40" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0003" x="40" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0004" x="40" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0005" x="450" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0006" x="450" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0007" x="860" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0008" x="1270" y="40" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0009" x="40" y="614" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0010" x="450" y="614" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0011" x="860" y="614" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0012" x="1270" y="614" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0013" x="40" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0014" x="450" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0015" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0016" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0017" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0018" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0019" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0020" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0021" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0022" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0023" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0024" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0025" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0026" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0027" x="860" y="1188" width="370" height="534"/>
+	<SubTexture name="Voltz port 9 flipped0028" x="860" y="1188" width="370" height="534"/>
+</TextureAtlas>

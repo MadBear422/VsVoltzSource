@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Lightswing",
+			"voltz",
+			[
+				246,
+				108,
+				55
+			]
+		],
+		[
+			"Tangroove",
+			"voltz",
+			[
+				246,
+				108,
+				55
+			]
+		],
+		[
+			"Checkpoint",
+			"voltz",
+			[
+				246,
+				108,
+				55
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Ball Game",
+	"weekName": "Voltz",
+	"freeplayColor": [
+		246,
+		108,
+		55
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "spooky",
+		"player1": "voltzPlayable",
+		"player2": "monster",
+		"player3": null,
+		"events": [
+			[
+				41674.2644011604,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0.1"
+					]
+				]
+			],
+			[
+				81756.8040837001,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				114598.909346858,
+				[
+					[
+						"Change Scroll Speed",
+						"1.35",
+						"0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "cat",
+		"bpm": 95,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Monster-V"
+	}
+}

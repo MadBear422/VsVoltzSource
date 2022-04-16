@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Spookeez-V", "spooky", [34, 51, 68]],
+		["South-V", "spooky", [34, 51, 68]],
+		["Monster-V", "monster", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "Spooky Month",
+	"difficulties": "easy,Normal,hard,electrified",
+	"weekBefore": "week1-V",
+	"weekName": "Week 2-V",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

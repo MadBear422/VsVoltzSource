@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whosVoltz.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="who voltz_hover0000" x="100" y="100" width="2208" height="607"/>
+	<SubTexture name="who voltz_hover0001" x="100" y="807" width="2208" height="607"/>
+	<SubTexture name="who voltz_hover0002" x="100" y="1514" width="2208" height="607"/>
+	<SubTexture name="who voltz0000" x="100" y="2221" width="2141" height="545"/>
+	<SubTexture name="who voltz0001" x="100" y="2866" width="2141" height="545"/>
+	<SubTexture name="who voltz0002" x="100" y="3511" width="2141" height="545"/>
+</TextureAtlas>
