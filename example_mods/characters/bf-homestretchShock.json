@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf new IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				80
+			],
+			"anim": "shock",
+			"fps": 24,
+			"name": "boyfriend SHOCK",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFHomestretch",
+	"position": [
+		40,
+		430
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-40,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

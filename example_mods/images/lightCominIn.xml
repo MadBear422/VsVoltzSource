@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightCominIn.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="light come in0000" x="100" y="100" width="921" height="857"/>
+	<SubTexture name="light come in0001" x="1121" y="100" width="921" height="857"/>
+	<SubTexture name="light come in0002" x="2142" y="100" width="921" height="857"/>
+	<SubTexture name="light come in0003" x="100" y="1057" width="921" height="857"/>
+	<SubTexture name="light come in0004" x="1121" y="1057" width="921" height="857"/>
+	<SubTexture name="light come in0005" x="2142" y="1057" width="921" height="857"/>
+	<SubTexture name="light come in0006" x="100" y="2014" width="921" height="857"/>
+	<SubTexture name="light come in0007" x="100" y="2014" width="921" height="857"/>
+</TextureAtlas>

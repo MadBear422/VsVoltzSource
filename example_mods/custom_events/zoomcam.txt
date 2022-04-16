@@ -1,0 +1,3 @@
+zooms cam bitch
+value1: new zoom
+value2: how long until it zooms in (GOES UNUSED)

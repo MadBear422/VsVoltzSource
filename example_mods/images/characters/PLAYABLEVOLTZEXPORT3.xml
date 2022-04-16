@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PLAYABLEVOLTZEXPORT3.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Voltz Down Playable0000" x="30" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0001" x="30" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0002" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0003" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0004" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0005" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0006" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0007" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0008" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0009" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0010" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0011" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0012" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable0013" x="449" y="30" width="389" height="502"/>
+	<SubTexture name="Voltz Down Playable Miss0000" x="868" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0001" x="1287" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0002" x="1287" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0003" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0004" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0005" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0006" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0007" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0008" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0009" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0010" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0011" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0012" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Down Playable Miss0013" x="1706" y="30" width="389" height="498"/>
+	<SubTexture name="Voltz Left Playable0000" x="2125" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0001" x="2125" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0002" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0003" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0004" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0005" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0006" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0007" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0008" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0009" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0010" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0011" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0012" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable0013" x="2591" y="30" width="436" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0000" x="3057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0001" x="3557" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0002" x="3557" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0003" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0004" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0005" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0006" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0007" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0008" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0009" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0010" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0011" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0012" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Left Playable Miss 0013" x="4057" y="30" width="470" height="530"/>
+	<SubTexture name="Voltz Playable HEY!0000" x="4557" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0001" x="4557" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0002" x="4968" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0003" x="4968" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0004" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0005" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0006" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0007" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0008" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0009" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0010" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0011" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0012" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable HEY!0013" x="5379" y="30" width="381" height="540"/>
+	<SubTexture name="Voltz Playable Idle0000" x="5790" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0001" x="5790" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0002" x="6306" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0003" x="6306" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0004" x="6822" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0005" x="6822" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0006" x="7338" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0007" x="7338" y="30" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0008" x="30" y="600" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0009" x="30" y="600" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0010" x="30" y="600" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0011" x="30" y="600" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0012" x="30" y="600" width="486" height="534"/>
+	<SubTexture name="Voltz Playable Idle0013" x="30" y="600" width="486" height="534"/>
+	<SubTexture name="Voltz Playable scared0000" x="546" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0001" x="546" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0002" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0003" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0004" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0005" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0006" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0007" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0008" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0009" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0010" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0011" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0012" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0013" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0014" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0015" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0016" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0017" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0018" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0019" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0020" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0021" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0022" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0023" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0024" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0025" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0026" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0027" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0028" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0029" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0030" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0031" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0032" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0033" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0034" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0035" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0036" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0037" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0038" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0039" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0040" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0041" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0042" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0043" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0044" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0045" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0046" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0047" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0048" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0049" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0050" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0051" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0052" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0053" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0054" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0055" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0056" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0057" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0058" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0059" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0060" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable scared0061" x="1036" y="600" width="460" height="546"/>
+	<SubTexture name="Voltz Playable sign0000" x="1526" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0001" x="1526" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0002" x="1526" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0003" x="2285" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0004" x="2285" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0005" x="3044" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0006" x="3044" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0007" x="3803" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0008" x="3803" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0009" x="4562" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0010" x="4562" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0011" x="5321" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0012" x="5321" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0013" x="6080" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0014" x="6080" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0015" x="6839" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0016" x="6839" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0017" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0018" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0019" x="789" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0020" x="789" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0021" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0022" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0023" x="2307" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0024" x="2307" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0025" x="3066" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0026" x="3066" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0027" x="3066" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0028" x="3825" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0029" x="3825" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0030" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0031" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0032" x="4584" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0033" x="4584" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0034" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0035" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0036" x="2307" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0037" x="2307" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0038" x="5343" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0039" x="5343" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0040" x="5343" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0041" x="2307" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0042" x="2307" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0043" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0044" x="1548" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0045" x="6102" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0046" x="6102" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0047" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0048" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0049" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0050" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0051" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0052" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0053" x="30" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0054" x="6839" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0055" x="6839" y="600" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0056" x="6861" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0057" x="6861" y="1182" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0058" x="30" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0059" x="30" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0060" x="789" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0061" x="1548" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0062" x="2307" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0063" x="3066" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0064" x="3825" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0065" x="4584" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0066" x="5343" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0067" x="6102" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0068" x="6861" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0069" x="6861" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0070" x="6861" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0071" x="6861" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0072" x="6861" y="1764" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0073" x="30" y="2346" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0074" x="789" y="2346" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0075" x="789" y="2346" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0076" x="1548" y="2346" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0077" x="1548" y="2346" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0078" x="2307" y="2346" width="729" height="552"/>
+	<SubTexture name="Voltz Playable sign0079" x="2307" y="2346" width="729" height="552"/>
+	<SubTexture name="Voltz Right Playable0000" x="3066" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0001" x="3066" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0002" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0003" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0004" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0005" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0006" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0007" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0008" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0009" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0010" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0011" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0012" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable0013" x="3435" y="2346" width="339" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0000" x="3804" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0001" x="4202" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0002" x="4202" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0003" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0004" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0005" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0006" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0007" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0008" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0009" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0010" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0011" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0012" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Right Playable Miss0013" x="4600" y="2346" width="368" height="529"/>
+	<SubTexture name="Voltz Up Playable0000" x="4998" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0001" x="4998" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0002" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0003" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0004" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0005" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0006" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0007" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0008" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0009" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0010" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0011" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0012" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable0013" x="5462" y="2346" width="434" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0000" x="5926" y="2346" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0001" x="6409" y="2346" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0002" x="6409" y="2346" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0003" x="6892" y="2346" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0004" x="6892" y="2346" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0005" x="7375" y="2346" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0006" x="30" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0007" x="30" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0008" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0009" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0010" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0011" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0012" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0013" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0014" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0015" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0016" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0017" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0018" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0019" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0020" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0021" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0022" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0023" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0024" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0025" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0026" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0027" x="513" y="2929" width="453" height="553"/>
+	<SubTexture name="Voltz Up Playable Miss0028" x="513" y="2929" width="453" height="553"/>
+</TextureAtlas>

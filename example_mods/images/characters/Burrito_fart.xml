@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Burrito fart.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EXPLOSIONDEATH0000" x="208" y="543" width="93" height="120" frameX="-12" frameY="-24" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0001" x="372" y="500" width="96" height="136" frameX="-12" frameY="-24" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0002" x="106" y="567" width="86" height="111" frameX="-26" frameY="-57" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0003" x="384" y="5" width="104" height="161" frameX="-12" frameY="-29" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0004" x="250" y="384" width="117" height="154" frameX="0" frameY="-24" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0005" x="370" y="175" width="115" height="155" frameX="-1" frameY="-25" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0006" x="250" y="210" width="115" height="169" frameX="-1" frameY="-21" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0007" x="129" y="210" width="116" height="177" frameX="-4" frameY="-21" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0008" x="5" y="210" width="119" height="177" frameX="-1" frameY="-21" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0009" x="5" y="5" width="253" height="200"/>
+	<SubTexture name="EXPLOSIONDEATH0010" x="263" y="5" width="116" height="165" frameX="-1" frameY="-21" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0011" x="372" y="335" width="101" height="160" frameX="-16" frameY="-32" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0012" x="106" y="392" width="97" height="170" frameX="-20" frameY="-28" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0013" x="5" y="572" width="90" height="101" frameX="-26" frameY="-25" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0014" x="5" y="392" width="96" height="175" frameX="-21" frameY="-25" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0015" x="306" y="641" width="92" height="33" frameX="-17" frameY="-21" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0016" x="263" y="175" width="93" height="22" frameX="-12" frameY="-24" frameWidth="253" frameHeight="200"/>
+	<SubTexture name="EXPLOSIONDEATH0017" x="197" y="668" width="93" height="22" frameX="-12" frameY="-24" frameWidth="253" frameHeight="200"/>
+</TextureAtlas>

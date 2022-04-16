@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wtf",
+			"indices": [],
+			"name": "Voltz_freshAlt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Voltz_freshAlt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freshVoltz1",
+	"position": [
+		25,
+		230
+	],
+	"healthicon": "voltz",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		160,
+		45
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LeftMiss.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="God Voltz Left Miss0000" x="1627" y="0" width="1273" height="1581" frameX="-300" frameY="0" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0001" x="0" y="2810" width="1586" height="1395" frameX="-166" frameY="-98" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0002" x="1586" y="2810" width="1586" height="1395" frameX="-166" frameY="-98" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0003" x="0" y="0" width="1627" height="1405" frameX="0" frameY="-91" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0004" x="0" y="1405" width="1627" height="1405" frameX="0" frameY="-91" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0005" x="2900" y="0" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0006" x="2900" y="832" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0007" x="1627" y="1581" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0008" x="2384" y="1664" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0009" x="2900" y="0" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0010" x="2900" y="832" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0011" x="1627" y="1581" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0012" x="2384" y="1664" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0013" x="2900" y="0" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0014" x="2900" y="832" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0015" x="1627" y="1581" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0016" x="2384" y="1664" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+	<SubTexture name="God Voltz Left Miss0017" x="2900" y="0" width="757" height="832" frameX="-559" frameY="-478" frameWidth="1752" frameHeight="1581"/>
+</TextureAtlas>

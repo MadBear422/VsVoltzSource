@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VoltzOno.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Voltz portrait enter Ono0000" x="0" y="0" width="71" height="61" frameX="-14" frameY="0" frameWidth="85" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Ono0001" x="71" y="0" width="71" height="61" frameX="-7" frameY="0" frameWidth="85" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Ono0002" x="142" y="0" width="71" height="61" frameX="-1" frameY="0" frameWidth="85" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Ono0003" x="0" y="61" width="71" height="61" frameX="0" frameY="0" frameWidth="85" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Ono0004" x="0" y="61" width="71" height="61" frameX="0" frameY="0" frameWidth="85" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Ono0005" x="0" y="61" width="71" height="61" frameX="0" frameY="0" frameWidth="85" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Ono0006" x="0" y="61" width="71" height="61" frameX="0" frameY="0" frameWidth="85" frameHeight="61"/>
+</TextureAtlas>

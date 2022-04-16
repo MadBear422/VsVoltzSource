@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DownMiss.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="God Voltz Down Miss0000" x="1628" y="0" width="1240" height="1326" frameX="-261" frameY="-80" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0001" x="0" y="2810" width="1585" height="1395" frameX="-167" frameY="-7" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0002" x="1585" y="2810" width="1585" height="1395" frameX="-167" frameY="-7" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0003" x="0" y="0" width="1628" height="1405" frameX="0" frameY="0" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0004" x="0" y="1405" width="1628" height="1405" frameX="0" frameY="0" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0005" x="2868" y="0" width="907" height="1047" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0006" x="2868" y="1047" width="907" height="1045" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0007" x="1628" y="1326" width="907" height="1044" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0008" x="3170" y="2092" width="907" height="1043" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0009" x="2868" y="0" width="907" height="1047" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0010" x="2868" y="1047" width="907" height="1045" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0011" x="1628" y="1326" width="907" height="1044" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0012" x="3170" y="2092" width="907" height="1043" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0013" x="2868" y="0" width="907" height="1047" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0014" x="2868" y="1047" width="907" height="1045" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0015" x="1628" y="1326" width="907" height="1044" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0016" x="3170" y="2092" width="907" height="1043" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+	<SubTexture name="God Voltz Down Miss0017" x="2868" y="0" width="907" height="1047" frameX="-511" frameY="-273" frameWidth="1752" frameHeight="1406"/>
+</TextureAtlas>

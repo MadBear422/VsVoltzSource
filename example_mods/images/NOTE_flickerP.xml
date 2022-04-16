@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ElectrofiedNote.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down electrofied0000" x="50" y="25" width="25" height="25"/>
+	<SubTexture name="Down electrofied0001" x="50" y="25" width="25" height="25"/>
+	<SubTexture name="Down electrofied0002" x="75" y="25" width="25" height="25"/>
+	<SubTexture name="Down electrofied0003" x="75" y="25" width="25" height="25"/>
+	<SubTexture name="Down electrofied0004" x="100" y="25" width="25" height="25"/>
+	<SubTexture name="Down electrofied0005" x="100" y="25" width="25" height="25"/>
+	<SubTexture name="Down electrofied0006" x="0" y="50" width="25" height="25"/>
+	<SubTexture name="Down electrofied0007" x="0" y="50" width="25" height="25"/>
+	<SubTexture name="Down electrofied0008" x="25" y="50" width="25" height="25"/>
+	<SubTexture name="Down electrofied0009" x="25" y="50" width="25" height="25"/>
+	<SubTexture name="Down electrofied0010" x="50" y="50" width="25" height="25"/>
+	<SubTexture name="Down electrofied0011" x="50" y="50" width="25" height="25"/>
+	<SubTexture name="Down electrofied0012" x="75" y="50" width="25" height="25"/>
+	<SubTexture name="Down electrofied0013" x="75" y="50" width="25" height="25"/>
+	<SubTexture name="Left electrofied0000" x="0" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0001" x="0" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0002" x="25" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0003" x="25" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0004" x="50" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0005" x="50" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0006" x="75" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0007" x="75" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0008" x="100" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0009" x="100" y="0" width="25" height="25"/>
+	<SubTexture name="Left electrofied0010" x="0" y="25" width="25" height="25"/>
+	<SubTexture name="Left electrofied0011" x="0" y="25" width="25" height="25"/>
+	<SubTexture name="Left electrofied0012" x="25" y="25" width="25" height="25"/>
+	<SubTexture name="Left electrofied0013" x="25" y="25" width="25" height="25"/>
+	<SubTexture name="Right electrofied0000" x="25" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0001" x="25" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0002" x="50" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0003" x="50" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0004" x="75" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0005" x="75" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0006" x="100" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0007" x="100" y="100" width="25" height="25"/>
+	<SubTexture name="Right electrofied0008" x="0" y="125" width="25" height="25"/>
+	<SubTexture name="Right electrofied0009" x="0" y="125" width="25" height="25"/>
+	<SubTexture name="Right electrofied0010" x="25" y="125" width="25" height="25"/>
+	<SubTexture name="Right electrofied0011" x="25" y="125" width="25" height="25"/>
+	<SubTexture name="Right electrofied0012" x="50" y="125" width="25" height="25"/>
+	<SubTexture name="Right electrofied0013" x="50" y="125" width="25" height="25"/>
+	<SubTexture name="Up electrofied0000" x="100" y="50" width="25" height="25"/>
+	<SubTexture name="Up electrofied0001" x="100" y="50" width="25" height="25"/>
+	<SubTexture name="Up electrofied0002" x="0" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0003" x="0" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0004" x="25" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0005" x="25" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0006" x="50" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0007" x="50" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0008" x="75" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0009" x="75" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0010" x="100" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0011" x="100" y="75" width="25" height="25"/>
+	<SubTexture name="Up electrofied0012" x="0" y="100" width="25" height="25"/>
+	<SubTexture name="Up electrofied0013" x="0" y="100" width="25" height="25"/>
+</TextureAtlas>

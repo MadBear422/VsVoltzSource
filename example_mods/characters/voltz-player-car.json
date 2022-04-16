@@ -1,0 +1,213 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Voltz Left Miss"
+		},
+		{
+			"offsets": [
+				-4,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Voltz Down car0"
+		},
+		{
+			"offsets": [
+				-6,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Voltz Right car0"
+		},
+		{
+			"offsets": [
+				-5,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Voltz Up car0"
+		},
+		{
+			"offsets": [
+				-7,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Voltz Left car0"
+		},
+		{
+			"offsets": [
+				6,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Voltz Down miss car"
+		},
+		{
+			"offsets": [
+				2,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Voltz Up Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Voltz Week 4 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				314
+			],
+			"anim": "hat",
+			"fps": 24,
+			"name": "Voltz hat flying off",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "Voltz Week 4 Idle"
+		},
+		{
+			"offsets": [
+				19,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Voltz Right Miss"
+		},
+		{
+			"offsets": [
+				-4,
+				-29
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Voltz Down car0"
+		},
+		{
+			"offsets": [
+				-6,
+				-7
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Voltz Right car"
+		},
+		{
+			"offsets": [
+				-7,
+				-4
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Voltz Left car0"
+		},
+		{
+			"offsets": [
+				-5,
+				22
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Voltz Up car0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WEEK4VOLTZEXPORT_1",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "voltz-car",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

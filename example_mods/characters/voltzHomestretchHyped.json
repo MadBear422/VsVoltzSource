@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Voltz Idle Homestretch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				40
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Voltz Up Fizz Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Voltz Right Fizz0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Voltz Right Fizz Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Voltz Up Fizz0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Voltz Down Fizz0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-80
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Voltz Down Fizz Miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				111,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Voltz Left Homestretch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-32
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Voltz Left Fizz Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HomestretchVOLTAGE",
+	"position": [
+		60,
+		240
+	],
+	"healthicon": "voltz-glasses",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		200,
+		-30
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

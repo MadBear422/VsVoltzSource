@@ -1,0 +1,2 @@
+Value 1: Song dialogue type
+Value 2: Dialogue type (senpai, roses, thorns)

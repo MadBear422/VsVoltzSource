@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Voltz Idle"
+		},
+		{
+			"offsets": [
+				-98,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Voltz Down"
+		},
+		{
+			"offsets": [
+				-43,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Voltz Left"
+		},
+		{
+			"offsets": [
+				-142,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Voltz Right"
+		},
+		{
+			"offsets": [
+				-40,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Voltz Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vsVoltzGlasses",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "voltz-glasses",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		280,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

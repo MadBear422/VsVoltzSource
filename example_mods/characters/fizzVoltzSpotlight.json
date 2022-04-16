@@ -1,0 +1,193 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Voltz Idle Fizz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Voltz Down Fizz0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-92
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Voltz Down Fizz Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Voltz Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-31
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Voltz Left Fizz Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Voltz Right Fizz0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Voltz Right Fizz Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Voltz Up Fizz0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				30
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Voltz Up Fizz Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "voltz spin",
+			"indices": [
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "voltz spin"
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "voltz spin"
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "voltz spin"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				535,
+				46
+			],
+			"anim": "drink",
+			"fps": 24,
+			"name": "Voltz fizz drink",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EXPORTFIZZ-spotlight",
+	"position": [
+		60,
+		220
+	],
+	"healthicon": "voltz",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		180,
+		20
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

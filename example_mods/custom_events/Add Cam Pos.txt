@@ -1,0 +1,5 @@
+Add on the cam Pos, Meant for checkpoint specifically
+
+Default Voltz Cam Pos: 695.5 X, 331 Y
+
+Default BF Cam Pos: 879.5 X, 357.5 Y

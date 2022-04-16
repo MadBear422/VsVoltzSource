@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KI_God_Voltz_1.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KI God Voltz Down0000" x="2" y="2" width="1240" height="1326" pivotX="413.4" pivotY="209.25" frameX="-33" frameY="-39" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0001" x="2" y="2" width="1240" height="1326" frameX="-33" frameY="-39" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0002" x="1244" y="2" width="1084" height="1253" frameX="-114" frameY="-61" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0003" x="1244" y="2" width="1084" height="1253" frameX="-114" frameY="-61" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0004" x="2330" y="2" width="1102" height="1256" frameX="-106" frameY="-86" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0005" x="2330" y="2" width="1102" height="1256" frameX="-106" frameY="-86" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0006" x="3434" y="2" width="1229" height="1369" frameX="0" frameY="0" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0007" x="3434" y="2" width="1229" height="1369" frameX="0" frameY="0" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0008" x="1244" y="2" width="1084" height="1253" frameX="-114" frameY="-61" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0009" x="1244" y="2" width="1084" height="1253" frameX="-114" frameY="-61" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0010" x="2330" y="2" width="1102" height="1256" frameX="-106" frameY="-86" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0011" x="2330" y="2" width="1102" height="1256" frameX="-106" frameY="-86" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0012" x="3434" y="2" width="1229" height="1369" frameX="0" frameY="0" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0013" x="3434" y="2" width="1229" height="1369" frameX="0" frameY="0" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0014" x="1244" y="2" width="1084" height="1253" frameX="-114" frameY="-61" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0015" x="1244" y="2" width="1084" height="1253" frameX="-114" frameY="-61" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0016" x="2330" y="2" width="1102" height="1256" frameX="-106" frameY="-86" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Down0017" x="2330" y="2" width="1102" height="1256" frameX="-106" frameY="-86" frameWidth="1273" frameHeight="1369"/>
+	<SubTexture name="KI God Voltz Left0000" x="4665" y="2" width="1273" height="1581" pivotX="618.65" pivotY="427.35" frameX="-1" frameY="0" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0001" x="4665" y="2" width="1273" height="1581" frameX="-1" frameY="0" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0002" x="5940" y="2" width="1095" height="1444" frameX="-123" frameY="-71" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0003" x="5940" y="2" width="1095" height="1444" frameX="-123" frameY="-71" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0004" x="7037" y="2" width="1119" height="1448" frameX="-131" frameY="-100" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0005" x="7037" y="2" width="1119" height="1448" frameX="-131" frameY="-100" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0006" x="2" y="1585" width="1268" height="1581" frameX="0" frameY="0" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0007" x="2" y="1585" width="1268" height="1581" frameX="0" frameY="0" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0008" x="5940" y="2" width="1095" height="1444" frameX="-123" frameY="-71" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0009" x="5940" y="2" width="1095" height="1444" frameX="-123" frameY="-71" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0010" x="7037" y="2" width="1119" height="1448" frameX="-131" frameY="-100" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0011" x="7037" y="2" width="1119" height="1448" frameX="-131" frameY="-100" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0012" x="2" y="1585" width="1268" height="1581" frameX="0" frameY="0" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0013" x="2" y="1585" width="1268" height="1581" frameX="0" frameY="0" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0014" x="5940" y="2" width="1095" height="1444" frameX="-123" frameY="-71" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0015" x="5940" y="2" width="1095" height="1444" frameX="-123" frameY="-71" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0016" x="7037" y="2" width="1119" height="1448" frameX="-131" frameY="-100" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Left0017" x="7037" y="2" width="1119" height="1448" frameX="-131" frameY="-100" frameWidth="1274" frameHeight="1581"/>
+	<SubTexture name="KI God Voltz Right0000" x="1272" y="1585" width="1266" height="1596" pivotX="227.75" pivotY="456.9" frameX="-41" frameY="-3" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0001" x="1272" y="1585" width="1266" height="1596" frameX="-41" frameY="-3" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0002" x="2540" y="1585" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0003" x="2540" y="1585" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0004" x="3632" y="1585" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0005" x="3632" y="1585" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0006" x="4778" y="1585" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0007" x="4778" y="1585" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0008" x="2540" y="1585" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0009" x="2540" y="1585" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0010" x="3632" y="1585" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0011" x="3632" y="1585" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0012" x="4778" y="1585" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0013" x="4778" y="1585" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0014" x="2540" y="1585" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0015" x="2540" y="1585" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0016" x="3632" y="1585" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Right0017" x="3632" y="1585" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="KI God Voltz Up0000" x="6036" y="1585" width="1242" height="1592" pivotX="282.85" pivotY="508.5" frameX="-43" frameY="0" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0001" x="6036" y="1585" width="1242" height="1592" frameX="-43" frameY="0" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0002" x="2" y="3183" width="1072" height="1456" frameX="-93" frameY="-115" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0003" x="2" y="3183" width="1072" height="1456" frameX="-93" frameY="-115" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0004" x="1076" y="3183" width="1133" height="1460" frameX="-64" frameY="-144" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0005" x="1076" y="3183" width="1133" height="1460" frameX="-64" frameY="-144" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0006" x="2211" y="3183" width="1242" height="1592" frameX="0" frameY="-44" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0007" x="2211" y="3183" width="1242" height="1592" frameX="0" frameY="-44" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0008" x="2" y="3183" width="1072" height="1456" frameX="-93" frameY="-115" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0009" x="2" y="3183" width="1072" height="1456" frameX="-93" frameY="-115" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0010" x="1076" y="3183" width="1133" height="1460" frameX="-64" frameY="-144" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0011" x="1076" y="3183" width="1133" height="1460" frameX="-64" frameY="-144" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0012" x="2211" y="3183" width="1242" height="1592" frameX="0" frameY="-44" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0013" x="2211" y="3183" width="1242" height="1592" frameX="0" frameY="-44" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0014" x="2" y="3183" width="1072" height="1456" frameX="-93" frameY="-115" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0015" x="2" y="3183" width="1072" height="1456" frameX="-93" frameY="-115" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0016" x="1076" y="3183" width="1133" height="1460" frameX="-64" frameY="-144" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz Up0017" x="1076" y="3183" width="1133" height="1460" frameX="-64" frameY="-144" frameWidth="1285" frameHeight="1636"/>
+	<SubTexture name="KI God Voltz idl0000" x="3455" y="3183" width="1315" height="1685" pivotX="369" pivotY="527"/>
+	<SubTexture name="KI God Voltz idl0001" x="3455" y="3183" width="1315" height="1685"/>
+	<SubTexture name="KI God Voltz idl0002" x="4772" y="3183" width="1171" height="1539" frameX="-114" frameY="-77" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0003" x="4772" y="3183" width="1171" height="1539" frameX="-114" frameY="-77" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0004" x="5945" y="3183" width="1209" height="1543" frameX="-89" frameY="-108" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0005" x="5945" y="3183" width="1209" height="1543" frameX="-89" frameY="-108" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0006" x="3455" y="3183" width="1315" height="1685"/>
+	<SubTexture name="KI God Voltz idl0007" x="3455" y="3183" width="1315" height="1685"/>
+	<SubTexture name="KI God Voltz idl0008" x="4772" y="3183" width="1171" height="1539" frameX="-114" frameY="-77" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0009" x="4772" y="3183" width="1171" height="1539" frameX="-114" frameY="-77" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0010" x="5945" y="3183" width="1209" height="1543" frameX="-89" frameY="-108" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0011" x="5945" y="3183" width="1209" height="1543" frameX="-89" frameY="-108" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0012" x="3455" y="3183" width="1315" height="1685"/>
+	<SubTexture name="KI God Voltz idl0013" x="3455" y="3183" width="1315" height="1685"/>
+	<SubTexture name="KI God Voltz idl0014" x="4772" y="3183" width="1171" height="1539" frameX="-114" frameY="-77" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0015" x="4772" y="3183" width="1171" height="1539" frameX="-114" frameY="-77" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0016" x="5945" y="3183" width="1209" height="1543" frameX="-89" frameY="-108" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI God Voltz idl0017" x="5945" y="3183" width="1209" height="1543" frameX="-89" frameY="-108" frameWidth="1315" frameHeight="1685"/>
+	<SubTexture name="KI break0000" x="2" y="4870" width="1246" height="1596" pivotX="536.35" pivotY="510.5" frameX="-295" frameY="0" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0001" x="1250" y="4870" width="1585" height="1381" frameX="-167" frameY="-181" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0002" x="1250" y="4870" width="1585" height="1381" frameX="-167" frameY="-181" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0003" x="2837" y="4870" width="1628" height="1405" frameX="0" frameY="-174" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0004" x="2837" y="4870" width="1628" height="1405" frameX="0" frameY="-174" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0005" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0006" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0007" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0008" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0009" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0010" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0011" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0012" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0013" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0014" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0015" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0016" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="KI break0017" x="4467" y="4870" width="0" height="0" frameX="-536" frameY="-510" frameWidth="1752" frameHeight="1596"/>
+</TextureAtlas>

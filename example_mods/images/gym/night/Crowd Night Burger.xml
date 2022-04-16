@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="night crowd.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="night crowd 1 instance 10000" x="100" y="100" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10001" x="100" y="100" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10002" x="1487" y="100" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10003" x="1487" y="100" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10004" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10005" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10006" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10007" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10008" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10009" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10010" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10011" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10012" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 1 instance 10013" x="100" y="678" width="1287" height="478"/>
+	<SubTexture name="night crowd 2 instance 10000" x="1487" y="678" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10001" x="1487" y="678" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10002" x="100" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10003" x="100" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10004" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10005" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10006" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10007" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10008" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10009" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10010" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10011" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10012" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 2 instance 10013" x="1448" y="1382" width="1248" height="604"/>
+	<SubTexture name="night crowd 3 instance 10000" x="2796" y="1382" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10001" x="2796" y="1382" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10002" x="100" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10003" x="100" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10004" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10005" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10006" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10007" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10008" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10009" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10010" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10011" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10012" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 3 instance 10013" x="1383" y="2086" width="1183" height="527"/>
+	<SubTexture name="night crowd 4 instance 10000" x="2666" y="2086" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10001" x="2666" y="2086" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10002" x="100" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10003" x="100" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10004" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10005" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10006" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10007" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10008" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10009" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10010" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10011" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10012" x="1445" y="2713" width="1245" height="498"/>
+	<SubTexture name="night crowd 4 instance 10013" x="1445" y="2713" width="1245" height="498"/>
+</TextureAtlas>

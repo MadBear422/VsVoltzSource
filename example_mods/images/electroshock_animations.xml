@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="electroshock_animations.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF electroshock0000" x="1588" y="10" width="413" height="574" frameX="-122" frameY="0" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0001" x="10" y="10" width="677" height="586" frameX="0" frameY="-29" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0002" x="2698" y="10" width="521" height="457" frameX="-58" frameY="-115" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0003" x="697" y="10" width="435" height="430" frameX="-105" frameY="-118" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0004" x="1142" y="10" width="436" height="430" frameX="-104" frameY="-118" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0005" x="4120" y="10" width="413" height="417" frameX="-102" frameY="-128" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0006" x="4543" y="10" width="414" height="420" frameX="-105" frameY="-122" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0007" x="4967" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0008" x="5388" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0009" x="4967" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0010" x="5388" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock0011" x="4967" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0000" x="1588" y="10" width="413" height="574" frameX="-122" frameY="0" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0001" x="2011" y="10" width="677" height="586" frameX="0" frameY="-29" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0002" x="2698" y="10" width="521" height="457" frameX="-58" frameY="-115" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0003" x="3229" y="10" width="435" height="430" frameX="-105" frameY="-118" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0004" x="3674" y="10" width="436" height="430" frameX="-104" frameY="-118" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0005" x="4120" y="10" width="413" height="417" frameX="-102" frameY="-128" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0006" x="4543" y="10" width="414" height="420" frameX="-105" frameY="-122" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0007" x="4967" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0008" x="5388" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0009" x="4967" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0010" x="5388" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="BF electroshock safe0011" x="4967" y="10" width="411" height="422" frameX="-107" frameY="-120" frameWidth="677" frameHeight="615"/>
+	<SubTexture name="Voltz electroshock funny glasses0000" x="1712" y="1269" width="576" height="609" frameX="-48" frameY="-14" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock funny glasses0001" x="5809" y="10" width="742" height="630"/>
+	<SubTexture name="Voltz electroshock funny glasses0002" x="3050" y="1269" width="546" height="504" frameX="-124" frameY="-56" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock funny glasses0003" x="3606" y="1269" width="494" height="486" frameX="-173" frameY="-75" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock funny glasses0004" x="4110" y="1269" width="492" height="486" frameX="-173" frameY="-75" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock funny glasses0005" x="514" y="650" width="389" height="510" frameX="-183" frameY="-75" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses0006" x="913" y="650" width="387" height="511" frameX="-185" frameY="-71" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses0007" x="1310" y="650" width="388" height="512" frameX="-187" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses0008" x="1708" y="650" width="388" height="512" frameX="-187" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses0009" x="1310" y="650" width="388" height="512" frameX="-187" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses0010" x="1708" y="650" width="388" height="512" frameX="-187" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses0011" x="1310" y="650" width="388" height="512" frameX="-187" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0000" x="6561" y="10" width="576" height="609" frameX="-48" frameY="-14" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0001" x="7147" y="10" width="743" height="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0002" x="3050" y="1269" width="546" height="504" frameX="-125" frameY="-56" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0003" x="10" y="650" width="494" height="487" frameX="-174" frameY="-75" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0004" x="4110" y="1269" width="492" height="486" frameX="-174" frameY="-75" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0005" x="514" y="650" width="389" height="510" frameX="-184" frameY="-75" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0006" x="913" y="650" width="387" height="511" frameX="-186" frameY="-71" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0007" x="1310" y="650" width="388" height="512" frameX="-188" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0008" x="1708" y="650" width="388" height="512" frameX="-188" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0009" x="1310" y="650" width="388" height="512" frameX="-188" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0010" x="1708" y="650" width="388" height="512" frameX="-188" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock funny glasses safe0011" x="1310" y="650" width="388" height="512" frameX="-188" frameY="-70" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock glasses0000" x="2106" y="650" width="576" height="609" frameX="-47" frameY="0" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0001" x="2692" y="650" width="742" height="559" frameX="0" frameY="-57" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0002" x="3444" y="650" width="547" height="441" frameX="-123" frameY="-106" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0003" x="4001" y="650" width="494" height="427" frameX="-173" frameY="-120" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0004" x="4505" y="650" width="492" height="427" frameX="-173" frameY="-120" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0005" x="5007" y="650" width="390" height="437" frameX="-182" frameY="-134" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0006" x="5407" y="650" width="386" height="438" frameX="-185" frameY="-130" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0007" x="5803" y="650" width="384" height="439" frameX="-187" frameY="-129" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0008" x="6197" y="650" width="390" height="437" frameX="-187" frameY="-131" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0009" x="6597" y="650" width="387" height="443" frameX="-187" frameY="-125" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0010" x="6994" y="650" width="393" height="444" frameX="-187" frameY="-124" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses0011" x="5803" y="650" width="384" height="439" frameX="-187" frameY="-129" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0000" x="2106" y="650" width="576" height="609" frameX="-47" frameY="0" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0001" x="7397" y="650" width="743" height="558" frameX="0" frameY="-58" frameWidth="743" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0002" x="3444" y="650" width="547" height="441" frameX="-124" frameY="-107" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0003" x="10" y="1269" width="494" height="428" frameX="-174" frameY="-120" frameWidth="743" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0004" x="4505" y="650" width="492" height="427" frameX="-174" frameY="-120" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0005" x="5007" y="650" width="390" height="437" frameX="-183" frameY="-134" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0006" x="5407" y="650" width="386" height="438" frameX="-185" frameY="-130" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0007" x="5803" y="650" width="384" height="439" frameX="-188" frameY="-129" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0008" x="514" y="1269" width="389" height="437" frameX="-188" frameY="-131" frameWidth="743" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0009" x="913" y="1269" width="387" height="443" frameX="-188" frameY="-125" frameWidth="743" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0010" x="1310" y="1269" width="392" height="444" frameX="-188" frameY="-124" frameWidth="743" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock glasses safe0011" x="5803" y="650" width="384" height="439" frameX="-188" frameY="-129" frameWidth="742" frameHeight="616"/>
+	<SubTexture name="Voltz electroshock0000" x="1712" y="1269" width="576" height="609" frameX="-47" frameY="-13" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0001" x="2298" y="1269" width="742" height="629"/>
+	<SubTexture name="Voltz electroshock0002" x="3050" y="1269" width="546" height="504" frameX="-124" frameY="-55" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0003" x="3606" y="1269" width="494" height="486" frameX="-173" frameY="-74" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0004" x="4110" y="1269" width="492" height="486" frameX="-173" frameY="-74" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0005" x="4612" y="1269" width="389" height="509" frameX="-183" frameY="-74" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0006" x="5011" y="1269" width="387" height="511" frameX="-185" frameY="-70" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0007" x="5408" y="1269" width="388" height="512" frameX="-187" frameY="-69" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0008" x="5806" y="1269" width="388" height="512" frameX="-187" frameY="-69" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0009" x="5408" y="1269" width="388" height="512" frameX="-187" frameY="-69" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0010" x="5806" y="1269" width="388" height="512" frameX="-187" frameY="-69" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock0011" x="5408" y="1269" width="388" height="512" frameX="-187" frameY="-69" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0000" x="6561" y="10" width="576" height="609" frameX="-48" frameY="-14" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock safe0001" x="6204" y="1269" width="743" height="629"/>
+	<SubTexture name="Voltz electroshock safe0002" x="3050" y="1269" width="546" height="504" frameX="-125" frameY="-56" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0003" x="10" y="650" width="494" height="487" frameX="-174" frameY="-74" frameWidth="743" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock safe0004" x="4110" y="1269" width="492" height="486" frameX="-174" frameY="-74" frameWidth="742" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0005" x="6957" y="1269" width="389" height="510" frameX="-184" frameY="-74" frameWidth="743" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0006" x="7356" y="1269" width="387" height="511" frameX="-186" frameY="-70" frameWidth="743" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0007" x="7753" y="1269" width="388" height="512" frameX="-188" frameY="-69" frameWidth="743" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0008" x="10" y="1908" width="388" height="512" frameX="-188" frameY="-69" frameWidth="743" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0009" x="7753" y="1269" width="388" height="512" frameX="-188" frameY="-69" frameWidth="743" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0010" x="10" y="1908" width="388" height="512" frameX="-188" frameY="-69" frameWidth="743" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock safe0011" x="7753" y="1269" width="388" height="512" frameX="-188" frameY="-69" frameWidth="743" frameHeight="629"/>
+	<SubTexture name="Voltz electroshock xmas0000" x="2256" y="1908" width="576" height="609" frameX="-47" frameY="-14" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0001" x="408" y="1908" width="742" height="630"/>
+	<SubTexture name="Voltz electroshock xmas0002" x="1160" y="1908" width="547" height="536" frameX="-123" frameY="-56" frameWidth="742" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0003" x="1717" y="1908" width="529" height="516" frameX="-138" frameY="-75" frameWidth="742" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0004" x="4690" y="1908" width="532" height="516" frameX="-133" frameY="-75" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0005" x="5232" y="1908" width="421" height="521" frameX="-150" frameY="-74" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0006" x="5663" y="1908" width="420" height="523" frameX="-151" frameY="-70" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0007" x="6093" y="1908" width="424" height="523" frameX="-150" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0008" x="6527" y="1908" width="424" height="523" frameX="-150" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0009" x="6093" y="1908" width="424" height="523" frameX="-150" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0010" x="6527" y="1908" width="424" height="523" frameX="-150" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas0011" x="6093" y="1908" width="424" height="523" frameX="-150" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0000" x="2256" y="1908" width="576" height="609" frameX="-48" frameY="-14" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0001" x="2842" y="1908" width="744" height="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0002" x="3596" y="1908" width="546" height="536" frameX="-125" frameY="-56" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0003" x="4152" y="1908" width="528" height="516" frameX="-140" frameY="-75" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0004" x="4690" y="1908" width="532" height="516" frameX="-135" frameY="-75" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0005" x="5232" y="1908" width="421" height="521" frameX="-152" frameY="-74" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0006" x="5663" y="1908" width="420" height="523" frameX="-153" frameY="-70" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0007" x="6093" y="1908" width="424" height="523" frameX="-152" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0008" x="6527" y="1908" width="424" height="523" frameX="-152" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0009" x="6093" y="1908" width="424" height="523" frameX="-152" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0010" x="6527" y="1908" width="424" height="523" frameX="-152" frameY="-69" frameWidth="744" frameHeight="630"/>
+	<SubTexture name="Voltz electroshock xmas safe0011" x="6093" y="1908" width="424" height="523" frameX="-152" frameY="-69" frameWidth="744" frameHeight="630"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				40
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bf spin",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				77,
+				40
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bf spin",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				40
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "bf spin",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				41
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "bf spin",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				13
+			],
+			"anim": "shock",
+			"fps": 24,
+			"name": "BF surprised",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fizzBF-spotlight",
+	"position": [
+		-20,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		15,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

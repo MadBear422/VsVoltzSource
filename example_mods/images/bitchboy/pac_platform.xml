@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pac_platform.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PACPLATFORM0000" x="0" y="0" width="524" height="484" frameX="-52" frameY="-17" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0001" x="0" y="0" width="524" height="484" frameX="-52" frameY="-17" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0002" x="524" y="0" width="526" height="491" frameX="-50" frameY="-11" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0003" x="524" y="0" width="526" height="491" frameX="-50" frameY="-11" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0004" x="1050" y="0" width="522" height="512" frameX="-53" frameY="-1" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0005" x="1050" y="0" width="522" height="512" frameX="-53" frameY="-1" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0006" x="0" y="512" width="541" height="460" frameX="-10" frameY="0" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0007" x="0" y="512" width="541" height="460" frameX="-10" frameY="0" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0008" x="541" y="512" width="539" height="462" frameX="-20" frameY="0" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0009" x="541" y="512" width="539" height="462" frameX="-20" frameY="0" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0010" x="1080" y="512" width="541" height="458" frameX="0" frameY="0" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0011" x="1080" y="512" width="541" height="458" frameX="0" frameY="0" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0012" x="0" y="974" width="532" height="497" frameX="-39" frameY="0" frameWidth="576" frameHeight="513"/>
+	<SubTexture name="PACPLATFORM0013" x="0" y="974" width="532" height="497" frameX="-39" frameY="0" frameWidth="576" frameHeight="513"/>
+</TextureAtlas>

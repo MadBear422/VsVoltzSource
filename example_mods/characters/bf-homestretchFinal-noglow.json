@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf new IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf new DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf new LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf new RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf new UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HOMERBFLOLNG",
+	"position": [
+		40,
+		430
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-40,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

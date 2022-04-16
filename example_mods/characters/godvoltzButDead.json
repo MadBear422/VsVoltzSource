@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "EXPLOSIONDEATH",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "EXPLOSIONDEATH",
+			"indices": [
+				16,
+				17
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "EXPLOSIONDEATH",
+			"indices": [
+				16,
+				17
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Burrito_fart",
+	"position": [
+		-370,
+		180
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6.49999999999999
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="catPixel.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF IDLE0000" x="0" y="0" width="104" height="76" frameX="0" frameY="-2" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0001" x="0" y="0" width="104" height="76" frameX="0" frameY="-2" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0002" x="0" y="0" width="104" height="76" frameX="0" frameY="-2" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0003" x="104" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0004" x="104" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0005" x="104" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0006" x="202" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0007" x="202" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0008" x="202" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0009" x="300" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0010" x="300" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0011" x="300" y="0" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0012" x="398" y="0" width="104" height="75" frameX="0" frameY="-3" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0013" x="398" y="0" width="104" height="75" frameX="0" frameY="-3" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0014" x="398" y="0" width="104" height="75" frameX="0" frameY="-3" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0015" x="0" y="77" width="102" height="76" frameX="-1" frameY="-2" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0016" x="0" y="77" width="102" height="76" frameX="-1" frameY="-2" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0017" x="0" y="77" width="102" height="76" frameX="-1" frameY="-2" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0018" x="102" y="77" width="98" height="78" frameX="-3" frameY="0" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0019" x="102" y="77" width="98" height="78" frameX="-3" frameY="0" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0020" x="102" y="77" width="98" height="78" frameX="-3" frameY="0" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0021" x="200" y="77" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0022" x="200" y="77" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0023" x="200" y="77" width="98" height="77" frameX="-3" frameY="-1" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0024" x="298" y="77" width="103" height="75" frameX="0" frameY="-3" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0025" x="298" y="77" width="103" height="75" frameX="0" frameY="-3" frameWidth="104" frameHeight="78"/>
+	<SubTexture name="GF IDLE0026" x="298" y="77" width="103" height="75" frameX="0" frameY="-3" frameWidth="104" frameHeight="78"/>
+</TextureAtlas>

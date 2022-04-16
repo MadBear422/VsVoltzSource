@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireworks.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FIREWORK YELLOW instance 10000" x="100" y="100" width="80" height="80" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10001" x="100" y="100" width="80" height="80" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10002" x="270" y="100" width="991" height="889" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10003" x="1351" y="100" width="993" height="767" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10004" x="2434" y="100" width="994" height="712" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10005" x="3518" y="100" width="1004" height="626" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10006" x="3518" y="100" width="1004" height="626" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10007" x="4612" y="100" width="995" height="581" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10008" x="5697" y="100" width="991" height="577" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10009" x="6778" y="100" width="1016" height="603" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10010" x="6778" y="100" width="1016" height="603" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10011" x="100" y="1079" width="1062" height="649" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10012" x="1252" y="1079" width="1141" height="697" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10013" x="1252" y="1079" width="1141" height="697" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10014" x="1252" y="1079" width="1141" height="697" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10015" x="2483" y="1079" width="1208" height="759" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10016" x="2483" y="1079" width="1208" height="759" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10017" x="2483" y="1079" width="1208" height="759" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10018" x="3781" y="1079" width="1229" height="789" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10019" x="3781" y="1079" width="1229" height="789" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10020" x="5100" y="1079" width="1250" height="819" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10021" x="5100" y="1079" width="1250" height="819" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10022" x="6440" y="1079" width="1259" height="828" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10023" x="100" y="100" width="80" height="80" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+	<SubTexture name="FIREWORK YELLOW instance 10024" x="100" y="100" width="80" height="80" frameX="0" frameY="0" frameWidth="1259" frameHeight="889"/>
+</TextureAtlas>

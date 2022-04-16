@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garylean.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lean0000" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0001" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0002" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0003" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0004" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0005" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0006" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0007" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0008" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0009" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0010" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0011" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0012" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0013" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0014" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0015" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0016" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0017" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0018" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0019" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0020" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0021" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0022" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0023" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0024" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0025" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0026" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0027" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0028" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0029" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0030" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0031" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0032" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0033" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0034" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0035" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0036" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0037" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0038" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0039" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0040" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0041" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0042" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0043" x="732" y="2" width="728" height="236"/>
+	<SubTexture name="lean0044" x="2" y="240" width="728" height="236"/>
+	<SubTexture name="lean0045" x="732" y="240" width="728" height="236"/>
+	<SubTexture name="lean0046" x="2" y="478" width="728" height="236"/>
+	<SubTexture name="lean0047" x="732" y="478" width="728" height="236"/>
+	<SubTexture name="lean0048" x="2" y="2" width="728" height="236"/>
+	<SubTexture name="lean0049" x="732" y="2" width="728" height="236"/>
+</TextureAtlas>

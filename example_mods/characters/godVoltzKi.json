@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "God Voltz Left"
+		},
+		{
+			"offsets": [
+				120,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "God Voltz Purple Miss"
+		},
+		{
+			"offsets": [
+				-220,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "God Voltz Up"
+		},
+		{
+			"offsets": [
+				-60,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "God Voltz Green Miss"
+		},
+		{
+			"offsets": [
+				-40,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "God Voltz Red Miss"
+		},
+		{
+			"offsets": [
+				-130,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "God Voltz Down"
+		},
+		{
+			"offsets": [
+				310,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "God Voltz Blue Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-251,
+				-150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "God Voltz Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-155,
+				-145
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "idl0"
+		},
+		{
+			"offsets": [
+				-165,
+				-93
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idl0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/God_Voltz_aura",
+	"position": [
+		-470,
+		-200
+	],
+	"healthicon": "Gvoltz",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		100,
+		230
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

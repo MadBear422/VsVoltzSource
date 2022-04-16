@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vsVoltzGlasses.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Voltz Down 0000" x="100" y="100" width="389" height="493" frameX="0" frameY="-9" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0001" x="100" y="100" width="389" height="493" frameX="0" frameY="-9" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0002" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0003" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0004" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0005" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0006" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0007" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0008" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0009" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0010" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0011" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0012" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Down 0013" x="589" y="100" width="377" height="502" frameX="-7" frameY="0" frameWidth="389" frameHeight="502"/>
+	<SubTexture name="Voltz Idle0000" x="1066" y="100" width="485" height="534" frameX="-1" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0001" x="1066" y="100" width="485" height="534" frameX="-1" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0002" x="100" y="734" width="481" height="534" frameX="0" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0003" x="100" y="734" width="481" height="534" frameX="0" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0004" x="681" y="734" width="480" height="534" frameX="-2" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0005" x="681" y="734" width="480" height="534" frameX="-2" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0006" x="1261" y="734" width="475" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0007" x="1261" y="734" width="475" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0008" x="100" y="1368" width="473" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0009" x="100" y="1368" width="473" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0010" x="100" y="1368" width="473" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0011" x="100" y="1368" width="473" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0012" x="100" y="1368" width="473" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Idle0013" x="100" y="1368" width="473" height="534" frameX="-3" frameY="0" frameWidth="486" frameHeight="534"/>
+	<SubTexture name="Voltz Left 0000" x="673" y="1368" width="435" height="530" frameX="0" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0001" x="673" y="1368" width="435" height="530" frameX="0" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0002" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0003" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0004" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0005" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0006" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0007" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0008" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0009" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0010" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0011" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0012" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Left 0013" x="1208" y="1368" width="429" height="530" frameX="-7" frameY="0" frameWidth="436" frameHeight="530"/>
+	<SubTexture name="Voltz Right0000" x="100" y="2002" width="338" height="524" frameX="-1" frameY="-5" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0001" x="100" y="2002" width="338" height="524" frameX="-1" frameY="-5" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0002" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0003" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0004" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0005" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0006" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0007" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0008" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0009" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0010" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0011" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0012" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Right0013" x="538" y="2002" width="337" height="529" frameX="0" frameY="0" frameWidth="339" frameHeight="529"/>
+	<SubTexture name="Voltz Up0000" x="975" y="2002" width="430" height="553" frameX="0" frameY="0" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0001" x="975" y="2002" width="430" height="553" frameX="0" frameY="0" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0002" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0003" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0004" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0005" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0006" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0007" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0008" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0009" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0010" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0011" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0012" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+	<SubTexture name="Voltz Up0013" x="1505" y="2002" width="427" height="547" frameX="-7" frameY="-6" frameWidth="434" frameHeight="553"/>
+</TextureAtlas>

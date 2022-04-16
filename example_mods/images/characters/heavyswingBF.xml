@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heavyswingBF.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF heavyswing0000" x="10" y="10" width="367" height="412" frameX="-121" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0001" x="10" y="10" width="367" height="412" frameX="-121" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0002" x="387" y="10" width="369" height="410" frameX="-120" frameY="-153" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0003" x="387" y="10" width="369" height="410" frameX="-120" frameY="-153" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0004" x="766" y="10" width="401" height="397" frameX="-111" frameY="-166" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0005" x="766" y="10" width="401" height="397" frameX="-111" frameY="-166" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0006" x="1177" y="10" width="401" height="396" frameX="-111" frameY="-167" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0007" x="1177" y="10" width="401" height="396" frameX="-111" frameY="-167" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0008" x="1177" y="10" width="401" height="396" frameX="-111" frameY="-167" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0009" x="1177" y="10" width="401" height="396" frameX="-111" frameY="-167" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0010" x="1588" y="10" width="396" height="413" frameX="-112" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0011" x="1588" y="10" width="396" height="413" frameX="-112" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0012" x="10" y="433" width="374" height="420" frameX="-116" frameY="-144" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0013" x="10" y="433" width="374" height="420" frameX="-116" frameY="-144" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0014" x="394" y="433" width="372" height="564" frameX="-116" frameY="0" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0015" x="394" y="433" width="372" height="564" frameX="-116" frameY="0" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0016" x="776" y="433" width="372" height="558" frameX="-115" frameY="-6" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0017" x="776" y="433" width="372" height="558" frameX="-115" frameY="-6" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0018" x="1158" y="433" width="435" height="525" frameX="-52" frameY="-39" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0019" x="1158" y="433" width="435" height="525" frameX="-52" frameY="-39" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0020" x="10" y="1007" width="478" height="428" frameX="-9" frameY="-136" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0021" x="498" y="1007" width="487" height="421" frameX="0" frameY="-143" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0022" x="995" y="1007" width="487" height="421" frameX="0" frameY="-143" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0023" x="1492" y="1007" width="420" height="396" frameX="-64" frameY="-167" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0024" x="1492" y="1007" width="420" height="396" frameX="-64" frameY="-167" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0025" x="10" y="1445" width="410" height="408" frameX="-77" frameY="-155" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0026" x="10" y="1445" width="410" height="408" frameX="-77" frameY="-155" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0027" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0028" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0029" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0030" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0031" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0032" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0033" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0034" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0035" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0036" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0037" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0038" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0039" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0040" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0041" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0042" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0043" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+	<SubTexture name="BF heavyswing0044" x="430" y="1445" width="408" height="412" frameX="-80" frameY="-151" frameWidth="512" frameHeight="564"/>
+</TextureAtlas>

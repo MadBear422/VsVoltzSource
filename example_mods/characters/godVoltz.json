@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "God Voltz Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "God Voltz Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "God Voltz Left"
+		},
+		{
+			"offsets": [
+				252,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "God Voltz lef"
+		},
+		{
+			"offsets": [
+				40,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "God Voltz rig"
+		},
+		{
+			"offsets": [
+				70,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "God Voltz Up"
+		},
+		{
+			"offsets": [
+				240,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "God Voltz u"
+		},
+		{
+			"offsets": [
+				160,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "God Voltz Down"
+		},
+		{
+			"offsets": [
+				-64,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "God Voltz Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				-61
+			],
+			"anim": "singDOWNmiss",
+			"fps": 23,
+			"name": "Voltz goin down mis",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Voltz_god_char",
+	"position": [
+		-80,
+		-210
+	],
+	"healthicon": "Gvoltz",
+	"flip_x": true,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		100,
+		230
+	],
+	"sing_duration": 5,
+	"scale": 0.7
+}

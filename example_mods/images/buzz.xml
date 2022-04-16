@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buzz.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buzz instance 10000" x="100" y="100" width="1776" height="548"/>
+	<SubTexture name="buzz instance 10001" x="100" y="748" width="1776" height="548"/>
+	<SubTexture name="buzz instance 10002" x="100" y="1396" width="1776" height="548"/>
+	<SubTexture name="buzz instance 10003" x="100" y="2044" width="1776" height="548"/>
+</TextureAtlas>

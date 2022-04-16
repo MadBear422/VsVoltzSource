@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFHomestretch.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf new DOWN0000" x="46" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0001" x="46" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0002" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0003" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0004" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0005" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0006" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0007" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0008" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0009" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0010" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0011" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0012" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0013" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0014" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0015" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0016" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new DOWN0017" x="518" y="46" width="426" height="295"/>
+	<SubTexture name="bf new IDLE0000" x="990" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0001" x="990" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0002" x="1396" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0003" x="1396" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0004" x="1802" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0005" x="1802" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0006" x="2208" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0007" x="2208" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0008" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0009" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0010" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0011" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0012" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0013" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0014" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0015" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0016" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new IDLE0017" x="2614" y="46" width="360" height="330"/>
+	<SubTexture name="bf new LEFT0000" x="3020" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0001" x="3020" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0002" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0003" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0004" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0005" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0006" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0007" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0008" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0009" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0010" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0011" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0012" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0013" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0014" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0015" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0016" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new LEFT0017" x="3476" y="46" width="410" height="398"/>
+	<SubTexture name="bf new RIGHT0000" x="46" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0001" x="46" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0002" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0003" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0004" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0005" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0006" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0007" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0008" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0009" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0010" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0011" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0012" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0013" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0014" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0015" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0016" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new RIGHT0017" x="540" y="490" width="448" height="380"/>
+	<SubTexture name="bf new UP0000" x="1034" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0001" x="1034" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0002" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0003" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0004" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0005" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0006" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0007" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0008" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0009" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0010" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0011" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0012" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0013" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0014" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0015" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0016" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="bf new UP0017" x="1620" y="490" width="540" height="469"/>
+	<SubTexture name="boyfriend SHOCK0000" x="2206" y="490" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0001" x="2819" y="490" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0002" x="3432" y="490" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0003" x="46" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0004" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0005" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0006" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0007" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0008" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0009" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0010" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0011" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0012" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0013" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0014" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0015" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0016" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0017" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0018" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0019" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0020" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0021" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0022" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0023" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0024" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0025" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0026" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0027" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0028" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0029" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0030" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0031" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0032" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0033" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0034" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0035" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0036" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0037" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0038" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0039" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0040" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0041" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0042" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0043" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0044" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0045" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0046" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0047" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0048" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0049" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0050" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0051" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0052" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0053" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0054" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0055" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0056" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0057" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0058" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0059" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0060" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0061" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0062" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0063" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0064" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0065" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0066" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0067" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0068" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0069" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0070" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0071" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0072" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0073" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0074" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0075" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0076" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0077" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0078" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0079" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0080" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0081" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0082" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0083" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0084" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0085" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0086" x="2498" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0087" x="3111" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0088" x="46" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0089" x="659" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0090" x="1272" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0091" x="1885" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0092" x="2498" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0093" x="3111" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0094" x="46" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0095" x="659" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0096" x="1272" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0097" x="46" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0098" x="659" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0099" x="1272" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0100" x="46" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0101" x="659" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0102" x="1272" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0103" x="46" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0104" x="659" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0105" x="1272" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0106" x="46" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0107" x="659" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0108" x="1272" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0109" x="46" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0110" x="659" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0111" x="1272" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0112" x="1885" y="1468" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0113" x="2498" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0114" x="3111" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0115" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0116" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0117" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0118" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0119" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0120" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0121" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0122" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0123" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0124" x="659" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0125" x="1272" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0126" x="1885" y="1005" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0127" x="1885" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0128" x="2498" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0129" x="3111" y="1931" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0130" x="46" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0131" x="659" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0132" x="1272" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0133" x="1885" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0134" x="2498" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0135" x="3111" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0136" x="46" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0137" x="659" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0138" x="3111" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0139" x="46" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0140" x="659" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0141" x="3111" y="2394" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0142" x="46" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0143" x="1272" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0144" x="1885" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0145" x="2498" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0146" x="2498" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0147" x="3111" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0148" x="3111" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0149" x="3111" y="2857" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0150" x="46" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0151" x="46" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0152" x="659" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0153" x="659" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0154" x="1272" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0155" x="1272" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0156" x="1885" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0157" x="1885" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0158" x="1885" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0159" x="1885" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend SHOCK0160" x="1885" y="3320" width="567" height="417"/>
+	<SubTexture name="boyfriend dodge0000" x="2498" y="3320" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0001" x="46" y="3911" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0002" x="891" y="3911" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0003" x="1736" y="3911" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0004" x="2581" y="3911" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0005" x="46" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0006" x="891" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0007" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0008" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0009" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0010" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0011" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0012" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0013" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0014" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0015" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0016" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0017" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0018" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0019" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0020" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0021" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0022" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0023" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0024" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0025" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0026" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0027" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0028" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0029" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0030" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0031" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0032" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0033" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0034" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0035" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0036" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0037" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0038" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0039" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0040" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0041" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0042" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0043" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0044" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0045" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0046" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0047" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0048" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0049" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0050" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0051" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0052" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0053" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0054" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0055" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0056" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0057" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0058" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0059" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0060" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0061" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0062" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0063" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0064" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0065" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0066" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0067" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0068" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0069" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0070" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0071" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0072" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0073" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0074" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0075" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0076" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0077" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0078" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0079" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0080" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0081" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0082" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0083" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0084" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0085" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0086" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0087" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0088" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0089" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0090" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0091" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0092" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0093" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0094" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0095" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0096" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0097" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0098" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0099" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0100" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0101" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0102" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0103" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0104" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0105" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0106" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0107" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0108" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0109" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0110" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0111" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0112" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0113" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0114" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0115" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0116" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0117" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0118" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0119" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0120" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0121" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0122" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0123" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0124" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0125" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0126" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0127" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0128" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0129" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0130" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0131" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0132" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0133" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0134" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0135" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0136" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0137" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0138" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0139" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0140" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0141" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0142" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0143" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0144" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0145" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0146" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0147" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0148" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0149" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0150" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0151" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0152" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0153" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0154" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0155" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0156" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0157" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0158" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0159" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0160" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0161" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0162" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0163" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0164" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0165" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0166" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0167" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0168" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0169" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0170" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0171" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0172" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0173" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0174" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0175" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0176" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0177" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0178" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0179" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0180" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0181" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0182" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0183" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0184" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0185" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0186" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0187" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0188" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0189" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0190" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0191" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0192" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0193" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0194" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0195" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0196" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0197" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0198" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0199" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0200" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0201" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0202" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0203" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0204" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0205" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0206" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0207" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0208" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0209" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0210" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0211" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0212" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0213" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0214" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0215" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0216" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0217" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0218" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0219" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0220" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0221" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0222" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0223" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0224" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0225" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0226" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0227" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0228" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0229" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0230" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0231" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0232" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0233" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0234" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0235" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0236" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0237" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0238" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0239" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0240" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0241" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0242" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0243" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0244" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0245" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0246" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0247" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0248" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0249" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0250" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0251" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0252" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0253" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0254" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0255" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0256" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0257" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0258" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0259" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0260" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0261" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0262" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0263" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0264" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0265" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0266" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0267" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0268" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0269" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0270" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0271" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0272" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0273" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0274" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0275" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0276" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0277" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0278" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0279" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0280" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0281" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0282" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0283" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0284" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0285" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0286" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0287" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0288" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0289" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0290" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0291" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0292" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0293" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0294" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0295" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0296" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0297" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0298" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0299" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0300" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0301" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0302" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0303" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0304" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0305" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0306" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0307" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0308" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0309" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0310" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0311" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0312" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0313" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0314" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0315" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0316" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0317" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0318" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0319" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0320" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0321" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0322" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0323" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0324" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0325" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0326" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0327" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0328" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0329" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0330" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0331" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0332" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0333" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0334" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0335" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0336" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0337" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0338" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0339" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0340" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0341" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0342" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0343" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0344" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0345" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0346" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0347" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0348" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0349" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0350" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0351" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0352" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0353" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0354" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0355" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0356" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0357" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0358" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0359" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0360" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0361" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0362" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0363" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0364" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0365" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0366" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0367" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0368" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0369" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0370" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0371" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0372" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0373" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0374" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0375" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0376" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0377" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0378" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0379" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0380" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0381" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0382" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0383" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0384" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0385" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0386" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0387" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0388" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0389" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0390" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0391" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0392" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0393" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0394" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0395" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0396" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0397" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0398" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0399" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0400" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0401" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0402" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0403" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0404" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0405" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0406" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0407" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0408" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0409" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0410" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0411" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0412" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0413" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0414" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0415" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0416" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0417" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0418" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0419" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0420" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0421" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0422" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0423" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0424" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0425" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0426" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0427" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0428" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0429" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0430" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0431" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0432" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0433" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0434" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0435" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0436" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0437" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0438" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0439" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0440" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0441" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0442" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0443" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0444" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0445" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0446" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0447" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0448" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0449" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0450" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0451" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0452" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0453" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0454" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0455" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0456" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0457" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0458" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0459" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0460" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0461" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0462" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0463" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0464" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0465" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0466" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0467" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0468" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0469" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0470" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0471" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0472" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0473" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0474" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0475" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0476" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0477" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0478" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0479" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0480" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0481" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0482" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0483" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0484" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0485" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0486" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0487" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0488" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0489" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0490" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0491" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0492" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0493" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0494" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0495" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0496" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0497" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0498" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0499" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0500" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0501" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0502" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0503" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0504" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0505" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0506" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0507" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0508" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0509" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0510" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0511" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0512" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0513" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0514" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0515" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0516" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0517" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0518" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0519" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0520" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0521" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0522" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0523" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0524" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0525" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0526" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0527" x="2581" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0528" x="46" y="5093" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0529" x="1736" y="4502" width="799" height="545"/>
+	<SubTexture name="boyfriend dodge0530" x="2581" y="4502" width="799" height="545"/>
+</TextureAtlas>

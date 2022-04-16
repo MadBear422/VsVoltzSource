@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Right.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="God Voltz Right0000" x="6426" y="0" width="1266" height="1596" frameX="-41" frameY="-3" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0001" x="3256" y="1404" width="1266" height="1596" frameX="-41" frameY="-3" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0002" x="7044" y="3060" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0003" x="4912" y="3192" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0004" x="7044" y="1596" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0005" x="3768" y="3000" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0006" x="0" y="1411" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0007" x="1256" y="1411" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0008" x="3768" y="4464" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0009" x="0" y="4471" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0010" x="0" y="3007" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0011" x="1144" y="3007" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0012" x="5788" y="1596" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0013" x="2512" y="3000" width="1256" height="1596" frameX="0" frameY="0" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0014" x="7044" y="3060" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0015" x="4912" y="3192" width="1090" height="1460" frameX="-87" frameY="-71" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0016" x="7044" y="1596" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right0017" x="3768" y="3000" width="1144" height="1464" frameX="-70" frameY="-100" frameWidth="1307" frameHeight="1599"/>
+	<SubTexture name="God Voltz Right Miss0000" x="4522" y="1404" width="1266" height="1596" frameX="-350" frameY="0" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0001" x="3256" y="0" width="1585" height="1404" frameX="-167" frameY="-124" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0002" x="4841" y="0" width="1585" height="1404" frameX="-167" frameY="-124" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0003" x="0" y="0" width="1628" height="1411" frameX="0" frameY="-117" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0004" x="1628" y="0" width="1628" height="1411" frameX="0" frameY="-117" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0005" x="6002" y="3192" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0006" x="6002" y="4224" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0007" x="1090" y="4471" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0008" x="6849" y="4520" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0009" x="6002" y="3192" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0010" x="6002" y="4224" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0011" x="1090" y="4471" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0012" x="6849" y="4520" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0013" x="6002" y="3192" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0014" x="6002" y="4224" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0015" x="1090" y="4471" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0016" x="6849" y="4520" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+	<SubTexture name="God Voltz Right Miss0017" x="6002" y="3192" width="847" height="1032" frameX="-486" frameY="-496" frameWidth="1752" frameHeight="1596"/>
+</TextureAtlas>

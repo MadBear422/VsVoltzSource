@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dk_platform.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DONKYPLATFORM0000" x="20" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0001" x="20" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0002" x="770" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0003" x="770" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0004" x="1520" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0005" x="1520" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0006" x="2270" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0007" x="2270" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0008" x="3020" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0009" x="3020" y="20" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0010" x="20" y="710" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0011" x="20" y="710" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0012" x="770" y="710" width="740" height="680"/>
+	<SubTexture name="DONKYPLATFORM0013" x="770" y="710" width="740" height="680"/>
+</TextureAtlas>

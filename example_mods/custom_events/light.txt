@@ -1,0 +1,3 @@
+light it up
+
+value 1 == 1 for voltz, 2 for bf, 3 for disappearing

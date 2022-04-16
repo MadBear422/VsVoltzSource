@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				126,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Voltz Down0"
+		},
+		{
+			"offsets": [
+				73,
+				195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Voltz Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				159
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Voltz Down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				186
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Voltz Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				163
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Voltz Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				191,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Voltz Right0"
+		},
+		{
+			"offsets": [
+				155,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Voltz Left0"
+		},
+		{
+			"offsets": [
+				209,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Voltz Left Miss"
+		},
+		{
+			"offsets": [
+				139,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Voltz Playable Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Playable_Voltz_Assets_Christmas",
+	"position": [
+		100,
+		430
+	],
+	"healthicon": "voltz",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		290,
+		-190
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

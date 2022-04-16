@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="day crowds.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd 1 instance 10000" x="100" y="100" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10001" x="100" y="100" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10002" x="1441" y="100" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10003" x="1441" y="100" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10004" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10005" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10006" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10007" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10008" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10009" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10010" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10011" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10012" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 1 instance 10013" x="100" y="720" width="1241" height="520"/>
+	<SubTexture name="crowd 2 instance 10000" x="1441" y="720" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10001" x="1441" y="720" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10002" x="2669" y="720" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10003" x="2669" y="720" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10004" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10005" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10006" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10007" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10008" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10009" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10010" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10011" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10012" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 2 instance 10013" x="100" y="1340" width="1128" height="399"/>
+	<SubTexture name="crowd 3 instance 10000" x="1328" y="1340" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10001" x="1328" y="1340" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10002" x="2620" y="1340" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10003" x="2620" y="1340" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10004" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10005" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10006" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10007" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10008" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10009" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10010" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10011" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10012" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="crowd 3 instance 10013" x="100" y="1950" width="1192" height="510"/>
+	<SubTexture name="day crowd 4  instance 10000" x="1392" y="1950" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10001" x="1392" y="1950" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10002" x="2567" y="1950" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10003" x="2567" y="1950" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10004" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10005" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10006" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10007" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10008" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10009" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10010" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10011" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10012" x="100" y="2560" width="1075" height="456"/>
+	<SubTexture name="day crowd 4  instance 10013" x="100" y="2560" width="1075" height="456"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VoltzPowerHungry.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Voltz portrait enter Power Hungry0000" x="0" y="0" width="61" height="61" frameX="-14" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0001" x="61" y="0" width="61" height="61" frameX="-7" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0002" x="61" y="0" width="61" height="61" frameX="-7" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0003" x="0" y="61" width="61" height="61" frameX="-1" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0004" x="0" y="61" width="61" height="61" frameX="-1" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0005" x="61" y="61" width="61" height="61" frameX="0" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0006" x="61" y="61" width="61" height="61" frameX="0" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0007" x="61" y="61" width="61" height="61" frameX="0" frameY="0" frameWidth="75" frameHeight="61"/>
+	<SubTexture name="Voltz portrait enter Power Hungry0008" x="61" y="61" width="61" height="61" frameX="0" frameY="0" frameWidth="75" frameHeight="61"/>
+</TextureAtlas>

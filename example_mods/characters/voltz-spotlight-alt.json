@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Voltz Idle"
+		},
+		{
+			"offsets": [
+				-98,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Voltz Down"
+		},
+		{
+			"offsets": [
+				-43,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Voltz Left"
+		},
+		{
+			"offsets": [
+				-142,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Voltz Right"
+		},
+		{
+			"offsets": [
+				-40,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Voltz Up"
+		},
+		{
+			"offsets": [
+				-3,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drink",
+			"indices": [],
+			"name": "Voltz Alt DRINK"
+		},
+		{
+			"offsets": [
+				99,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cum",
+			"indices": [],
+			"name": "Voltz COME ON"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/voltz-spotlight-alt",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "voltz",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

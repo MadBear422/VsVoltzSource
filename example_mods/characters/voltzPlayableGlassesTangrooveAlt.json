@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Voltz Playable Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Voltz Down Playable0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-36
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Voltz Down Playable Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Voltz Up Playable0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				11
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Voltz Up Playable Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Voltz Right Playable0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Voltz Right Playable Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Voltz Left Playable0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Voltz Left Playable Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PlayableVolt-Tangroove",
+	"position": [
+		60,
+		240
+	],
+	"healthicon": "voltz-glasses",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		100,
+		-30
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

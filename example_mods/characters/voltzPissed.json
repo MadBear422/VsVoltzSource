@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-61
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Voltz Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Voltz Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-172,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Voltz Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Voltz Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-2
+			],
+			"anim": "shock3",
+			"fps": 24,
+			"name": "Voltz grumpo shades",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Voltz Idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-2
+			],
+			"anim": "shock",
+			"fps": 24,
+			"name": "Voltz GASP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shock2",
+			"loop": false,
+			"name": "Voltz GASP eye moving"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/checkpointVoltz",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "voltz",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		108,
+		55
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
