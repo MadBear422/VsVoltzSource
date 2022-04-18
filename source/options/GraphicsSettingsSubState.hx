@@ -44,6 +44,20 @@ class GraphicsSettingsSubState extends BaseOptionsMenu
 			false); //Default value
 		addOption(option);
 
+		var option:Option = new Option('Preloader', //Name
+			'If checked, the game will preload every menu\nupon startup (RESTART REQUIRED).\nTHIS USES A LOT OF MEMORY!', //Description
+			'preCache', //Save data variable name
+			'bool', //Variable type
+			false); //Default value
+		addOption(option);
+
+		var option:Option = new Option('No Shaders', //Name
+			'If checked, disables all shaders.', //Description
+			'noShaders', //Save data variable name
+			'bool', //Variable type
+			false); //Default value
+		addOption(option);
+
 		var option:Option = new Option('Anti-Aliasing',
 			'If unchecked, disables anti-aliasing, increases performance\nat the cost of sharper visuals.',
 			'globalAntialiasing',

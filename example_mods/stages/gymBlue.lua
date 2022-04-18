@@ -56,7 +56,7 @@ end
 
 function onBeatHit()
 	objectPlayAnimation('crowdBottomLeft', 'bop', true)
-	objectPlayAnimation('crowdTopLeftBurger', 'bop', true)
+	--objectPlayAnimation('crowdTopLeftBurger', 'bop', true)
 	objectPlayAnimation('crowdBottomRight', 'bop', true)
 	objectPlayAnimation('crowdTopLeft', 'bop', true)
 	objectPlayAnimation('crowdTopRight', 'bop', true)

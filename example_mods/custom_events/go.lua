@@ -1,4 +1,8 @@
 -- Event notes hooks
+function onCreate()
+	precacheImage('buzz')
+end
+
 function onEvent(name, value1, value2)
 	if name == 'go' then
 		makeLuaSprite('goo', 'VGO', 0, 0)

@@ -22,22 +22,22 @@ class Flag extends FlxSprite
 	{
 		super(x, y);
         if (spins)
-			{
-				var1 = FlxG.random.int(-1200,1200); //speed
-				var2 = FlxG.random.int(-1,1); //acceleration
-			}
+		{
+			var1 = FlxG.random.int(-1200,1200); //speed
+			var2 = FlxG.random.int(-1,1); //acceleration
+		}
     }
 	override function update(elapsed:Float)
 	{
         if (spins)
-			{
-				angle += var1;
-				var1 += var2;
-			}
+		{
+			angle += var1;
+			var1 += var2;
+		}
 		if (FlxG.random.int(0,200) == 0)
-			{
-				FlxTween.tween(this, {x: FlxG.random.int(0,1280), y: FlxG.random.int(0,720)}, 1, {ease: FlxEase.quadInOut});
-			}
+		{
+			FlxTween.tween(this, {x: FlxG.random.int(0,1280), y: FlxG.random.int(0,720)}, 1, {ease: FlxEase.quadInOut});
+		}
 		super.update(elapsed);
     }
 }

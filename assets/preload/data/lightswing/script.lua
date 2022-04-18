@@ -21,8 +21,9 @@ function onCreate()
 	setProperty('white.visible', false)
 	setProperty('bar1.visible', false)
 	setProperty('bar2.visible', false)
-	setProperty('crowdLeft.y', 610)
-	setProperty('crowdRight.y', 610)
+	setProperty('crowd.y', 610)
+	--setProperty('crowdLeft.y', 610)
+	--setProperty('crowdRight.y', 610)
 end
 
 function onStepHit()
@@ -42,8 +43,9 @@ function onEvent(name, v1, v2)
 	if name == 'off' then
 		doTweenY('b1', 'bar1', 1500, 2, 'quadIn')
 		doTweenY('b2', 'bar2', -500, 2, 'quadIn')
-		doTweenY('cr', 'crowdRight', 265, 1.4, 'quadOut')
-		doTweenY('cl', 'crowdLeft', 240, 1.4, 'quadOut')
+		doTweenY('c', 'crowd', 240, 1.4, 'quadOut')
+		--doTweenY('cr', 'crowdRight', 265, 1.4, 'quadOut')
+		--doTweenY('cl', 'crowdLeft', 240, 1.4, 'quadOut')
 	elseif name == 'makeEffs' then
 		setProperty('bar1.y', 620)
 		setProperty('bar2.y', -15)

@@ -1,5 +1,15 @@
 package;
 
+import openfl.errors.Error;
+import openfl.events.ErrorEvent;
+import sys.io.File;
+import haxe.CallStack;
+import haxe.CallStack.StackItem;
+import haxe.io.Path;
+import sys.FileSystem;
+import sys.io.Process;
+import lime.app.Application;
+import openfl.events.UncaughtErrorEvent;
 import flixel.graphics.FlxGraphic;
 import flixel.FlxG;
 import flixel.FlxGame;
@@ -10,6 +20,9 @@ import CoolerFPS as FPS;
 import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.display.StageScaleMode;
+#if desktop
+import Discord.DiscordClient;
+#end
 
 class Main extends Sprite
 {
@@ -33,6 +46,8 @@ class Main extends Sprite
 	public function new()
 	{
 		super();
+
+		Lib.current.loaderInfo.uncaughtErrorEvents.addEventListener(UncaughtErrorEvent.UNCAUGHT_ERROR, onCrash);
 
 		if (stage != null)
 		{
@@ -91,5 +106,83 @@ class Main extends Sprite
 		FlxG.autoPause = false;
 		FlxG.mouse.visible = false;
 		#end
+	}
+
+	static final quotes:Array<String> = [
+		"Bro stop giving the coders more work!",
+		"Bornana flavored tango is the best!",
+		"EEEE AAA!",
+		"FUCK!",
+		"Sorry I didn't fix this issue, I was busy with the eggs.",
+		"Optimization who?",
+		"BLAME MADBEAR!",
+		"BLAME AXION!",
+	];
+
+	function onCrash(e:UncaughtErrorEvent):Void
+	{
+		var dateNow:String = Date.now().toString();
+		var errMsg:String = [
+			"+----------------------------+",
+			"|     Vs Voltz Crash Log     |",
+			"+----------------------------+",
+			quotes[Std.random(quotes.length)],
+			"Date: " + dateNow,
+			"",
+			"Please report this error to @SparkFNF on twitter",
+			"------------------------------",
+		].join("\r\n") + "\r\n";
+		var path:String;
+		var callStack:Array<StackItem> = CallStack.exceptionStack(true);
+
+		dateNow = StringTools.replace(dateNow, " ", "_");
+		dateNow = StringTools.replace(dateNow, ":", "'");
+
+		path = "./crash/" + "VsVoltz_" + dateNow + ".txt";
+
+		for (stackItem in callStack)
+		{
+			switch (stackItem)
+			{
+				case FilePos(s, file, line, column):
+					errMsg += file + " (line " + line + ")\r\n";
+				default:
+					Sys.println(stackItem);
+			}
+		}
+
+		var m:String = e.error;
+		if (Std.isOfType(e.error, Error)) {
+			var err = cast(e.error, Error);
+			m = '${err.message}';
+		} else if (Std.isOfType(e.error, ErrorEvent)) {
+			var err = cast(e.error, ErrorEvent);
+			m = '${err.text}';
+		}
+
+		errMsg += "\r\nUncaught Error: " + m + "\r\n";
+
+		if (!FileSystem.exists("./crash/"))
+			FileSystem.createDirectory("./crash/");
+
+		File.saveContent(path, errMsg + "\r\n");
+
+		Sys.println(errMsg);
+		Sys.println("Crash dump saved in " + Path.normalize(path));
+
+		//new Process('start /B ' + path, null);
+		//new Process(path, []);
+		//}
+		//else
+		//{
+			// I had to do this or the stupid CI won't build :distress:
+		//	Sys.println("No crash dialog found! Making a simple alert instead...");
+		Application.current.window.alert(errMsg, "Error!");
+		//}
+
+		DiscordClient.shutdown();
+		e.stopPropagation();
+		e.stopImmediatePropagation();
+		//Sys.exit(1);
 	}
 }

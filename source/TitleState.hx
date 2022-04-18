@@ -38,7 +38,6 @@ class TitleState extends MusicBeatState
 
 	var blackScreen:FlxSprite;
 	var credGroup:FlxGroup;
-	var credTextShit:Alphabet;
 	var textGroup:FlxGroup;
 	var logoSpr:FlxSprite;
 	var drops:FlxSprite;
@@ -267,13 +266,6 @@ class TitleState extends MusicBeatState
 		blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		credGroup.add(blackScreen);
 
-		credTextShit = new Alphabet(0, 0, "", true);
-		credTextShit.screenCenter();
-
-		// credTextShit.alignment = CENTER;
-
-		credTextShit.visible = false;
-
 		logoSpr = new FlxSprite(0, FlxG.height * 0.3).loadGraphic(Paths.image('spark'));
 		add(logoSpr);
 		logoSpr.visible = false;
@@ -294,14 +286,11 @@ class TitleState extends MusicBeatState
 		canThrow.animation.addByPrefix('throw', 'can', 24, false);
 		canThrow.visible = false;
 		add(canThrow);
-		FlxTween.tween(credTextShit, {y: credTextShit.y + 20}, 2.9, {ease: FlxEase.quadInOut, type: PINGPONG});
 
 		if (initialized)
 			skipIntro();
 		else
 			initialized = true;
-
-		// credGroup.add(credTextShit);
 	}
 
 	function getIntroTextShit():Array<Array<String>>
@@ -476,8 +465,6 @@ class TitleState extends MusicBeatState
 		if(!closedState) {
 			switch (curBeat)
 			{
-				case 1:
-					createCoolText(['Spark Studios'], -60);
 				case 2:
 				case 3:
 					addMoreText('A mod made by', -60);

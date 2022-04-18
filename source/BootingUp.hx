@@ -59,7 +59,7 @@ using StringTools;
 class BootingUp extends MusicBeatState {
 	public var logoAnim:FlxSprite;
 	public var loadingMush:FlxSprite;
-	public var loadedTxt:FlxText;
+	public var loadedTxt:FlxFixedText;
 	public var loadedImages:Int = 0;
 	public var loadBar:FlxBar;
 	public var loadBarSpr:FlxSprite;
@@ -68,12 +68,11 @@ class BootingUp extends MusicBeatState {
 	var boolTwo:Bool = false;
 	var iscompleted:Bool = false;
 	var fuck:Bool = false;
-	
-	override function create() {
 
+	override function create() {
 		FlxG.save.bind('funkin', 'ninjamuffin99');
 		//PlayerSettings.init();
-		
+
 		FlxG.game.focusLostFramerate = 60;
 		// FlxG.sound.muteKeys = muteKeys;
 		// FlxG.sound.volumeDownKeys = volumeDownKeys;
@@ -90,10 +89,10 @@ class BootingUp extends MusicBeatState {
 		FlxG.android.preventDefaultKeys = [BACK];
 		#end
 
-        loadingMush = new FlxSprite().loadGraphic(Paths.image("Greassjeak","shared"));
-        loadingMush.scale.set(0.4,0.4);
-        loadingMush.screenCenter();
-        add(loadingMush);
+		loadingMush = new FlxSprite().loadGraphic(Paths.image("Greassjeak","shared"));
+		loadingMush.scale.set(0.4,0.4);
+		loadingMush.screenCenter();
+		add(loadingMush);
 
 		logoAnim = new FlxSprite();
 		logoAnim.frames = Paths.getSparrowAtlas('titlemenu/logo');
@@ -105,7 +104,7 @@ class BootingUp extends MusicBeatState {
 		logoAnim.animation.play('bump1',true);
 		add(logoAnim);
 
-		loadedTxt = new FlxText(400, 250, FlxG.width - 600, "PRELOADING MENU MUSIC", 32);
+		loadedTxt = new FlxFixedText(400, 250, FlxG.width - 600, "PRELOADING MENU MUSIC", 32);
 		loadedTxt.setFormat(Paths.font("microgramma.otf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		loadedTxt.scrollFactor.set();
 		loadedTxt.borderSize = 1.25;
@@ -113,112 +112,121 @@ class BootingUp extends MusicBeatState {
 		loadedTxt.y -= 100;
 		add(loadedTxt);
 
-		loadBar = new FlxBar(0,0,LEFT_TO_RIGHT,Std.int(1110 / 2),15,this,'loadedImages',0,316,true);
+		loadBar = new FlxBar(0,0,LEFT_TO_RIGHT,Std.int(1110 / 2),15,this,'loadedImages',0,247,true);
 		// loadBar.createGradientBar([FlxColor.BLACK, FlxColor.GRAY], [FlxColor.ORANGE, FlxColor.YELLOW],1,180,true,FlxColor.BLACK);
 		loadBar.createFilledBar(FlxColor.BLACK, FlxColor.WHITE, true, FlxColor.BLACK);
 		loadBar.antialiasing = true;
+		loadBar.numDivisions = 10000;
 		loadBar.screenCenter();
-		add(loadBar);
+		if (FlxG.save.data.preCache)
+			add(loadBar);
 
 		viggy = new VignetteShader();
 		viggy.radius = 0.4;
-		
+
 		FlxG.camera.setFilters([new ShaderFilter(viggy.shader)]);
 
 		// FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);//genius momento. agree
 
 		loadedTxt.text = "PRELOADED ASSETS: 0";
 		fuck = true;
-		#if cpp
-		Thread.create(cacheStuff);
-		#else
-		cacheStuff();
-		#end
+		if (FlxG.save.data.preCache)
+			{
+				#if cpp
+				Thread.create(cacheStuff);
+				#else
+				cacheStuff();
+				#end
+			}
+		else
+			iscompleted = true;
 
 		//trace(SysPathing.getExePath("do NOT readme.txt"));
-		
+
 		super.create();
 	}
 	
 	override public function update(h:Float) {
-		
 		super.update(h);
-		
+
 		if (iscompleted) { //  && boolOne && boolTwo
-            loadedTxt.text = "Assets Loaded\nPress ENTER to continue\n";
+			if (FlxG.save.data.preCache)
+				loadedTxt.text = "Assets Loaded\nPress ENTER to continue\n";
+			else
+				loadedTxt.text = "Ello Guvna!\nPress ENTER to continue\n";
 			if (FlxG.keys.justPressed.ENTER) {
-                MusicBeatState.switchState(new TitleState());
+				MusicBeatState.switchState(new TitleState());
 				trace(loadedImages);
-            }
+			}
 		}
 		if (loadedTxt != null && fuck && !iscompleted) {
 			loadedTxt.text = "LOADED ASSETS: " + loadedImages;
 		}
 	}
 
-    //own made caching :P -zackk
+	//own made caching :P -zackk
 	function cacheStuff() { //very hard goin, keep preloading assets only to big asf shit like ui and dialogue.
 		#if sys
-        // loadfolder("assets/images");
-        loadfolder("assets/images/characters");
-        // loadfolder("assets/images/charselect");
-        loadfolder("assets/images/extrasMenu");
-        loadfolder("assets/images/extrasMenu/achievements");
-        loadfolder("assets/images/extrasMenu/artwork");
-        loadfolder("assets/images/extrasMenu/back");
-        loadfolder("assets/images/extrasMenu/char");
-        loadfolder("assets/images/extrasMenu/dev");
-        loadfolder("assets/images/extrasMenu/gallery");
-        loadfolder("assets/images/extrasMenu/movies");
-        loadfolder("assets/images/extrasMenu/sound");
-        loadfolder("assets/images/extrasMenu/who voltz");
-        loadfolder("assets/images/freeplayThing");
-        loadfolder("assets/images/icons");
-        loadfolder("assets/images/loadscreen");
-        loadfolder("assets/images/loadscreen/logos");
-        loadfolder("assets/images/loadscreen/background");
-        loadfolder("assets/images/loadscreen/characters");
-        loadfolder("assets/images/loadscreen/text");
-        loadfolder("assets/images/mainmenu");
-        loadfolder("assets/images/mainmenu/bf");
-        loadfolder("assets/images/mainmenu/cat");
-        loadfolder("assets/images/mainmenu/gf");
-        loadfolder("assets/images/mainmenu/voltz");
-		loadfolder("assets/images/gallery/artwork/gallery_subs");
-        // loadfolder("assets/images/menudifficulties");
-        // // loadfolder("assets/images/pixelUI");
-        // loadfolder("assets/images/soundtest");
-        // loadfolder("assets/images/soundtest/gf");
-        // loadfolder("assets/images/soundtest/bf");
-        // loadfolder("assets/images/soundtest/voltz");
-        // loadfolder("assets/images/soundtest/pico");
-        // loadfolder("assets/images/soundtest/cat");
-        // loadfolder("assets/images/soundtest/mom");
-        // loadfolder("assets/images/soundtest/dad");
-        // loadfolder("assets/images/soundtest/noVal");
-        // loadfolder("assets/images/soundtest/parents");
-        // loadfolder("assets/images/soundtest/monster");
-        // loadfolder("assets/images/soundtest/spooky");
-        // loadfolder("assets/images/soundtest/spirit");
-        loadfolder("assets/images/steam");
-        loadfolder("assets/images/ui");
-        loadfolder("assets/images/titlemenu");
-        loadfolder("assets/images/creds");
-        loadfolder("assets/images/creds/people");
-        // loadfolder("assets/images/voltzWeeks");
-        // loadfolder("assets/images/voltzWeeks/characters");
-        // loadfolder("assets/images/voltzWeeks/bgColors");
-        // loadfolder("mods/images/gym");
-        // loadfolder("mods/images/gym/dusk");
-        // loadfolder("mods/images/gym/night");
-        // loadfolder("assets/shared/images");
-         // loadfolder("assets/shared/images/characters");
-        loadfolder("assets/shared/images/dialogue");
+		// loadfolder("assets/images");
+		loadfolder("assets/images/characters");
+		// loadfolder("assets/images/charselect");
+		loadfolder("assets/images/extrasMenu");
+		loadfolder("assets/images/extrasMenu/achievements");
+		//loadfolder("assets/images/extrasMenu/artwork");
+		loadfolder("assets/images/extrasMenu/back");
+		loadfolder("assets/images/extrasMenu/char");
+		//loadfolder("assets/images/extrasMenu/dev");
+		loadfolder("assets/images/extrasMenu/gallery");
+		//loadfolder("assets/images/extrasMenu/movies");
+		loadfolder("assets/images/extrasMenu/sound");
+		loadfolder("assets/images/extrasMenu/who voltz");
+		loadfolder("assets/images/freeplayThing");
+		loadfolder("assets/images/icons");
+		loadfolder("assets/images/loadscreen");
+		loadfolder("assets/images/loadscreen/logos");
+		loadfolder("assets/images/loadscreen/background");
+		loadfolder("assets/images/loadscreen/characters");
+		loadfolder("assets/images/loadscreen/text");
+		loadfolder("assets/images/mainmenu");
+		loadfolder("assets/images/mainmenu/bf");
+		loadfolder("assets/images/mainmenu/cat");
+		loadfolder("assets/images/mainmenu/gf");
+		loadfolder("assets/images/mainmenu/voltz");
+		//loadfolder("assets/images/gallery/artwork/gallery_subs");
+		// loadfolder("assets/images/menudifficulties");
+		// // loadfolder("assets/images/pixelUI");
+		// loadfolder("assets/images/soundtest");
+		// loadfolder("assets/images/soundtest/gf");
+		// loadfolder("assets/images/soundtest/bf");
+		// loadfolder("assets/images/soundtest/voltz");
+		// loadfolder("assets/images/soundtest/pico");
+		// loadfolder("assets/images/soundtest/cat");
+		// loadfolder("assets/images/soundtest/mom");
+		// loadfolder("assets/images/soundtest/dad");
+		// loadfolder("assets/images/soundtest/noVal");
+		// loadfolder("assets/images/soundtest/parents");
+		// loadfolder("assets/images/soundtest/monster");
+		// loadfolder("assets/images/soundtest/spooky");
+		// loadfolder("assets/images/soundtest/spirit");
+		loadfolder("assets/images/steam");
+		loadfolder("assets/images/ui");
+		loadfolder("assets/images/titlemenu");
+		loadfolder("assets/images/creds");
+		loadfolder("assets/images/creds/people");
+		// loadfolder("assets/images/voltzWeeks");
+		// loadfolder("assets/images/voltzWeeks/characters");
+		// loadfolder("assets/images/voltzWeeks/bgColors");
+		// loadfolder("mods/images/gym");
+		// loadfolder("mods/images/gym/dusk");
+		// loadfolder("mods/images/gym/night");
+		// loadfolder("assets/shared/images");
+		 // loadfolder("assets/shared/images/characters");
+		loadfolder("assets/shared/images/dialogue");
 		//loadfolder("mods/images/characters"); /ughhhsghdsh pain/.
-        // loadfolder("assets/shared/images/dialogue/stock");
-        //loadfolder("assets/shared/images/gymStage");
-        // loadfolder("assets/shared/images/park");
-        
+		// loadfolder("assets/shared/images/dialogue/stock");
+		//loadfolder("assets/shared/images/gymStage");
+		// loadfolder("assets/shared/images/park");
+
 		// if (FlxG.save.data.keepPreload) {
 		// loadfolder("assets/shared/images/characters");
 		// loadfolder("assets/shared/images/8bit");
@@ -235,7 +243,7 @@ class BootingUp extends MusicBeatState {
 		for (path in charpaths)
 		{
 			var fullpath = '$folder/$path';
-            //trace(fullpath);
+			//trace(fullpath);
 
 			if (!path.contains('.png') || !FileSystem.exists(Sys.getCwd() + '/' + fullpath))
 				continue;
@@ -259,5 +267,6 @@ class BootingUp extends MusicBeatState {
 
 			loadedImages++;
 		}
+		trace("Cache Total: " + loadedImages);
 	}
 }

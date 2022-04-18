@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bumpDay0000" x="1" y="1" width="2079" height="375" frameX="0" frameY="-46" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0001" x="1" y="1" width="2079" height="375" frameX="0" frameY="-46" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0002" x="2083" y="1" width="2019" height="415" frameX="-29" frameY="-6" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0003" x="2083" y="1" width="2019" height="415" frameX="-29" frameY="-6" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0004" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0005" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0006" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0007" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0008" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0009" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0010" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0011" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0012" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDay0013" x="4105" y="1" width="2011" height="421" frameX="-33" frameY="0" frameWidth="2079" frameHeight="421"/>
+	<SubTexture name="bumpDusk0000" x="1" y="425" width="2103" height="400" frameX="0" frameY="-43" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0001" x="1" y="425" width="2103" height="400" frameX="0" frameY="-43" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0002" x="2107" y="425" width="2067" height="429" frameX="-11" frameY="-14" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0003" x="2107" y="425" width="2067" height="429" frameX="-11" frameY="-14" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0004" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0005" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0006" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0007" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0008" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0009" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0010" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0011" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0012" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpDusk0013" x="4177" y="425" width="2052" height="443" frameX="-22" frameY="0" frameWidth="2103" frameHeight="443"/>
+	<SubTexture name="bumpHappy0000" x="1" y="871" width="2064" height="394" frameX="0" frameY="-32" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0001" x="1" y="871" width="2064" height="394" frameX="0" frameY="-32" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0002" x="2068" y="871" width="2029" height="416" frameX="-17" frameY="-10" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0003" x="2068" y="871" width="2029" height="416" frameX="-17" frameY="-10" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0004" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0005" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0006" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0007" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0008" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0009" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0010" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0011" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0012" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpHappy0013" x="4100" y="871" width="2021" height="426" frameX="-21" frameY="0" frameWidth="2064" frameHeight="426"/>
+	<SubTexture name="bumpNight0000" x="1" y="1300" width="2098" height="386" frameX="0" frameY="-28" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0001" x="1" y="1300" width="2098" height="386" frameX="0" frameY="-28" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0002" x="2102" y="1300" width="2066" height="407" frameX="-17" frameY="-7" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0003" x="2102" y="1300" width="2066" height="407" frameX="-17" frameY="-7" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0004" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0005" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0006" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0007" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0008" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0009" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0010" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0011" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0012" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+	<SubTexture name="bumpNight0013" x="4171" y="1300" width="2057" height="414" frameX="-21" frameY="0" frameWidth="2098" frameHeight="414"/>
+</TextureAtlas>

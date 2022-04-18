@@ -16,7 +16,7 @@ class FlxVideoPC extends FlxBasic {
 	public var readyToPlay:Void->Void = null; // when play on load is FALSE
 
 	public var readyAndPlaying:Void->Void = null; // when play on load is true
-	
+
 	#if desktop
 	public static var vlcBitmap:VlcBitmap;
 
@@ -71,7 +71,7 @@ class FlxVideoPC extends FlxBasic {
 		vlcBitmap.inWindow = false;
 		vlcBitmap.fullscreen = false;
 		fixVolume(null);
-		
+
 		FlxG.addChildBelowMouse(vlcBitmap);
 		vlcBitmap.play(checkFile(name));
 		#end
@@ -126,13 +126,17 @@ class FlxVideoPC extends FlxBasic {
 			{
 				FlxG.game.removeChild(vlcBitmap);
 			}
-			if (finishCallback != null) { finishCallback(); }
+			if (finishCallback != null)
+			{
+				finishCallback();
+			}
 		}
 	}
 
 	public function onVLCComplete()
 	{
 		vlcBitmap.stop();
+
 		// Clean player, just in case!
 		vlcBitmap.dispose();
 
@@ -141,7 +145,10 @@ class FlxVideoPC extends FlxBasic {
 			FlxG.game.removeChild(vlcBitmap);
 		}
 
-		if (finishCallback != null) { finishCallback(); }
+		if (finishCallback != null)
+		{
+			finishCallback();
+		}
 	}
 
 	public function onVLCReady()

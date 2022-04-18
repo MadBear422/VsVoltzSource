@@ -129,18 +129,20 @@ class MoviesState extends MusicBeatState {
         Paths.clearStoredMemory();
 		Paths.clearUnusedMemory();
 
-        camHUDShaders.push(new ShaderFilter(new VCRDistortionShader()));
-        camHUDShaders.push(new ShaderFilter(new ChromaticAberrationShader()));
-        var newCamEffects:Array<BitmapFilter>=[];
-				for(i in camHUDShaders){
-				  newCamEffects.push(new ShaderFilter(i.shader));
-				}
-        FlxG.camera.setFilters(newCamEffects);
-        //shader data
-        newShader.saturation = -1;
-	    newShader.brightness = -0.5;
-	    oldShader.saturation = 0;
-	    oldShader.brightness = 0;
+        if(!ClientPrefs.noShaders) {
+            camHUDShaders.push(new ShaderFilter(new VCRDistortionShader()));
+            camHUDShaders.push(new ShaderFilter(new ChromaticAberrationShader()));
+            var newCamEffects:Array<BitmapFilter>=[];
+            for(i in camHUDShaders){
+                newCamEffects.push(new ShaderFilter(i.shader));
+            }
+            FlxG.camera.setFilters(newCamEffects);
+            //shader data
+            newShader.saturation = -1;
+            newShader.brightness = -0.5;
+            oldShader.saturation = 0;
+            oldShader.brightness = 0;
+        }
 
         persistentUpdate = persistentDraw = true;
 

@@ -24,6 +24,8 @@ class Note extends FlxSprite
 	public var noteWasHit:Bool = false;
 	public var prevNote:Note;
 
+	public var isHoldEnd:Bool = false;
+
 	public var sustainLength:Float = 0;
 	public var isSustainNote:Bool = false;
 	public var noteType(default, set):String = null;
@@ -205,6 +207,8 @@ class Note extends FlxSprite
 					animation.play('redholdend');
 			}
 
+			isHoldEnd = true;
+
 			updateHitbox();
 
 			offsetX -= width / 2;
@@ -225,6 +229,8 @@ class Note extends FlxSprite
 					case 3:
 						prevNote.animation.play('redhold');
 				}
+
+				prevNote.isHoldEnd = false;
 
 				prevNote.scale.y *= Conductor.stepCrochet / 100 * 1.05;
 				if(PlayState.instance != null)

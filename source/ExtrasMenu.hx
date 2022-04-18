@@ -51,7 +51,6 @@ class ExtrasMenu extends MusicBeatState
 	var grpBGs:FlxTypedGroup<MenuThing>;
 	var bgDots:FlxSprite = new FlxSprite().loadGraphic(Paths.image('mainmenu/dots'));	
 	var daLogo:FlxSprite = new FlxSprite().loadGraphic(Paths.image('mainmenu/logo'));
-	var optionsIntro:FlxSprite = new FlxSprite().loadGraphic(Paths.image('mainmenu/optionsintro')); // need someone to make this for me lmao
 	var orangeStuph:FlxSprite = new FlxSprite().loadGraphic(Paths.image('titlemenu/thing2'));
 	var coverUp:FlxSprite = new FlxSprite().loadGraphic(Paths.image('titlemenu/thing2'));
 	var grpSparks:FlxTypedGroup<MenuThing>;

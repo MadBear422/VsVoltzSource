@@ -93,14 +93,16 @@ class ArtworkState extends MusicBeatState {
 
         camGame.follow(camFollow);
 
-        camHUDShaders.push(new ShaderFilter(new VCRDistortionShader()));
-        camHUDShaders.push(new ShaderFilter(new ChromaticAberrationShader()));
-        var newCamEffects:Array<BitmapFilter>=[];
-				for(i in camHUDShaders){
-				  newCamEffects.push(new ShaderFilter(i.shader));
-				}
-
-        camGame.setFilters(newCamEffects);
+        if(!ClientPrefs.noShaders) {
+            camHUDShaders.push(new ShaderFilter(new VCRDistortionShader()));
+            camHUDShaders.push(new ShaderFilter(new ChromaticAberrationShader()));
+            var newCamEffects:Array<BitmapFilter>=[];
+            for(i in camHUDShaders){
+                newCamEffects.push(new ShaderFilter(i.shader));
+            }
+    
+            camGame.setFilters(newCamEffects);
+        } 
 
         persistentUpdate = persistentDraw = true;
 

@@ -242,6 +242,8 @@ class Character extends FlxSprite
 		recalculateDanceIdle();
 		dance();
 
+		GPUTools.uploadToGpu(this);
+
 		if (isPlayer)
 		{
 			flipX = !flipX;
@@ -367,7 +369,7 @@ class Character extends FlxSprite
 				danced = false;
 			}
 
-			if (AnimName == 'singUP' || AnimName == 'singDOWN')
+			else if (AnimName == 'singUP' || AnimName == 'singDOWN')
 			{
 				danced = !danced;
 			}

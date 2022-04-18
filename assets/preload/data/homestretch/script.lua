@@ -1,22 +1,30 @@
+--local theVig = false
+local cantpause = false
+local hasCachedMidMid = false
+local hasCachedMid = false
+
+
 function onCreate()
 	addCharacterToList('VoltzHomestretchHyped')
 	addCharacterToList('godVoltz')
 	addCharacterToList('godVoltzKi')
 	addCharacterToList('voltzLosesHisShit')
-	addCharacterToList('bf-homestretchShock')
-	addCharacterToList('bf-homestretchHyped')
-	addCharacterToList('bf-homestretchFinal')
+	addCharacterToList('bf-homestretchShock', "dad")
+	addCharacterToList('bf-homestretchHyped', "dad")
+	addCharacterToList('bf-homestretchFinal', "dad")
 	addCharacterToList('godVoltz-noglow')
 	addCharacterToList('bf-homestretchFinal-noglow')
-	addCharacterToList('gf-cat-glow')
-	addCharacterToList('bf-opponentGlassesTangrooveAlt')
-	addCharacterToList('bf-opponentGlassesFizzAlt')
+	addCharacterToList('gf-cat-glow', "girlfriend")
+	addCharacterToList('bf-opponentGlasses', "dad")
+	addCharacterToList('bf-opponentGlassesTangrooveAlt', "dad")
+	addCharacterToList('bf-opponentGlassesFizzAlt', "dad")
+	addCharacterToList('VoltzPlayableGlasses')
 	addCharacterToList('VoltzPlayableGlassesTangrooveAlt')
 	addCharacterToList('VoltzPlayableGlassesFizzAlt')
 
 	makeLuaSprite('txt', 'placeholder', 0, 0)
 	setObjectCamera('txt', 'hud')
-	
+
 	Y = -200
 
 	makeAnimatedLuaSprite('lightIn', 'lightCominIn', 850, Y)
@@ -31,15 +39,15 @@ function onCreate()
 	setBlendMode('lightInB', 'add')
 	setProperty('lightIn.alpha', 0.55)
 	setProperty('lightInB.alpha', 0.55)
-	
+
 	makeLuaSprite('gr', 'Gradiento', 0, 0)
 	setObjectCamera('gr', 'hud')
 	addLuaSprite('gr', true)
 	doTweenColor('gr0', 'gr', 'FF0000', 4, 'linear')
 	setProperty('gr.visible', false)
-	
+
 	setProperty('glow', true)
-	
+
 	makeLuaSprite('bar1', nil, 0, -100)
 	makeLuaSprite('bar2', nil, 0, 720)
 	makeGraphic('bar1', screenWidth, 100, '000000')
@@ -48,18 +56,18 @@ function onCreate()
 	setObjectCamera('bar2', 'hud')
 	addLuaSprite('bar1', false)
 	addLuaSprite('bar2', false)
-	
+
 	makeLuaSprite('vignette', 'vig_filter', 0, 0)
 	setObjectCamera('vignette', 'hud')
 	setBlendMode('vignette', 'overlay')
 	setProperty('vignette.alpha', 0)
-	
+
 	makeLuaSprite('sepiaFilter', 'sepia', 0, 0)
 	scaleObject('sepiaFilter', 1.5, 1.5)
 	setObjectCamera('sepiaFilter', 'other')
 	setBlendMode('sepiaFilter', 'overlay')
 	setProperty('sepiaFilter.alpha', 0.7)
-	
+
 	makeAnimatedLuaSprite('fireworks0', 'fireworks', -250, -700)
 	makeAnimatedLuaSprite('fireworks1', 'fireworks', 500, -600)
 	makeAnimatedLuaSprite('fireworks2', 'fireworks', -800, -400)
@@ -75,7 +83,7 @@ function onCreate()
 	doTweenColor('F5', 'fireworks5', 'F200FF', 0.1, 'linear') -- pink
 	doTweenColor('F6', 'fireworks6', 'FFB400', 0.1, 'linear') -- orange
 	doTweenColor('F7', 'fireworks7', '6000FF', 0.1, 'linear') -- red
-	
+
 	for f = 0, 7 do
 		addAnimationByPrefix('fireworks'..f, 'f', 'FIREWORK YELLOW', 24, false)
 		addLuaSprite('fireworks'..f, false)
@@ -91,7 +99,7 @@ function onCreate()
 	addLuaSprite('lights', false)
 	setObjectOrder('lights', getObjectOrder('sky') + 1)
 	setProperty('lights.visible', false)
-	
+
 	makeAnimatedLuaSprite('static', 'gym/screens/static', 20, -361)
 	scaleObject('static', 1.80, 2)
 	addAnimationByPrefix('static', 'moop', 'statics', 24, true)
@@ -99,20 +107,25 @@ function onCreate()
 	setObjectOrder('static', getObjectOrder('screen') - 1)
 	setProperty('static.visible', false)
 	objectPlayAnimation('static', 'moop', true)
-	
+
 	makeLuaSprite('ST', 'stars', getProperty('gfGroup.x') - 1100, Y - 1300)
 	scaleObject('ST', 7.5, 7.5)
 	addLuaSprite('ST', false)
 	setObjectOrder('ST', getObjectOrder('gfGroup') + 1)
 	setProperty('ST.visible', false)
-	
+
+	if getProperty('newScriptThing') then
+		hasCachedMidMid = true
+		hasCachedMid = true
+	end
+
 	precacheImage('gym/screens/static')
-	precacheImage('txt')
-	precacheImage('lightIn')
-	precacheImage('lightInB')
-	precacheImage('Gradiento')
+	--precacheImage('txt')
+	--precacheImage('lightIn')
+	--precacheImage('lightInB')
+	--precacheImage('Gradiento')
 	precacheImage('vig_filter')
-	precacheImage('sepiaFilter')
+	--precacheImage('sepiaFilter')
 	precacheImage('lights')
 	precacheImage('fireworks')
 	precacheImage('gym/screens/static')
@@ -121,6 +134,14 @@ function onCreate()
 	precacheImage('blueNotes')
 	precacheImage('orangeNotes')
 	precacheImage('orangeSplashes')
+end
+
+function onCreatePost()
+	--makeLuaSprite('vignetteLast', 'vig_filter2', 0, 0)
+	--setObjectCamera('vignetteLast', 'hud')
+	--setBlendMode('vignetteLast', 'overlay')
+	--setProperty('vignetteLast.visible', false)
+	--addLuaSprite('vignetteLast', true)
 end
 
 function onCountdownTick(t)
@@ -150,6 +171,7 @@ function onSongStart()
 		setProperty('fireworks'..f..'.visible', true)
 	end
 	cacheMidVideo('mid-mid-homestretch')
+	hasCachedMidMid = true;
 	runTimer('fuckoff', 0.2, 1)
 end
 
@@ -164,11 +186,11 @@ end
 local activate = false
 function onBeatHit()
 	if activate then
-		spr = getRandomInt(0, 7)
+		local spr = getRandomInt(0, 7)
 		math.randomseed(curStep * 4)
-		x = getRandomInt(-1150, 1300)
-		y = getRandomInt(-730, -650)
-		sc = getRandomFloat(0.5, 1)
+		local x = getRandomInt(-1150, 1300)
+		local y = getRandomInt(-730, -650)
+		local sc = getRandomFloat(0.5, 1)
 		objectPlayAnimation('fireworks'..spr, 'f')
 		setProperty('fireworks'..spr..'.x', x)
 		setProperty('fireworks'..spr..'.y', y)
@@ -199,12 +221,16 @@ function onStepHit()
 	if curStep == 0 then
 		triggerEvent('Camera Follow Pos', '696', '406')
 	end
+	if curStep >= 0 and not hasCachedMidMid then
+		cacheMidVideo('mid-mid-homestretch')
+		hasCachedMidMid = true;
+	end
 	if curStep == 3 then
 		triggerEvent('Camera Follow Pos', '', '')
 	end
 	if curStep == 16 then
 		if flashingLights then
-		cameraFlash('game', 'FFFFFF', 0.15)
+			cameraFlash('game', 'FFFFFF', 0.15)
 		end
 		addLuaSprite('lightIn', true)
 		doTweenColor('bf', 'boyfriendGroup', 'BDBDBD', 0.1, 'linear')
@@ -256,7 +282,7 @@ function onStepHit()
 	end
 	if curStep == 272 then
 		if flashingLights then
-		cameraFlash('game', 'FFFFFF', 0.15)
+			cameraFlash('game', 'FFFFFF', 0.15)
 		end
 		doTweenAlpha('lI0', 'lightIn', 0, 0.1)
 		doTweenAlpha('lI1', 'lightInB', 0, 0.1)
@@ -349,8 +375,9 @@ function onStepHit()
 		activate = true
 		cantpause = false
 	end
-	if curStep == 430 then
+	if curStep >= 430 and not hasCachedMid then
 		cacheMidVideo('mid-homestretch')
+		hasCachedMid = true
 	end
 	if curStep == 640 then
 		triggerEvent('Camera Follow Pos', '696', '406')
@@ -361,7 +388,7 @@ function onStepHit()
 	if curStep == 656 then
 		cameraShake('camGame', 0.05, 0.2)
 		if flashingLights then
-		cameraFlash('other', 'FFFFFF', 0.15)
+			cameraFlash('other', 'FFFFFF', 0.15)
 		end
 		triggerEvent('Change Character', '0', 'VoltzPlayableGlasses')
 		triggerEvent('Change Character', '1', 'bf-opponentGlasses')
@@ -374,16 +401,17 @@ function onStepHit()
 	end
 	if curStep == 720 then
 		if flashingLights then
-		cameraFlash('other', 'FFFFFF', 0.15)
+			cameraFlash('other', 'FFFFFF', 0.15)
 		end
 		cameraShake('camGame', 0.05, 0.2)
 		addVCREffect('game', 0.1, false, false, false)
 		setProperty('sepiaFilter.visible', true)
 		setProperty('theVig', true)
+		--theVig = true
 	end
 	if curStep == 784 then
 		if flashingLights then
-		cameraFlash('game', 'FFFFFF', 0.15)
+			cameraFlash('game', 'FFFFFF', 0.15)
 		end
 		cameraShake('camGame', 0.05, 0.2)
 		triggerEvent('Change Character', '0', 'VoltzPlayableGlassesTangrooveAlt')
@@ -425,7 +453,7 @@ function onStepHit()
 	end
 	if curStep == 848 then
 		if flashingLights then
-		cameraFlash('game', 'FFFFFF', 0.15)
+			cameraFlash('game', 'FFFFFF', 0.15)
 		end
 		cameraShake('camGame', 0.05, 0.2)
 		triggerEvent('Change Character', '0', 'VoltzPlayableGlassesFizzAlt')
@@ -575,6 +603,7 @@ function onStepHit()
 		setProperty('static.visible', true)
 		setProperty('glow', true)
 		setProperty('theVig', false)
+		--theVig = false
 		addLuaSprite('vignette', true)
 		doTweenAlpha('l', 'lights', 0.5, 0.1, 'linear')
 		doTweenAlpha('vig', 'vignette', 1, 0.1, 'linear')
@@ -596,7 +625,7 @@ function onStepHit()
 		doTweenColor('dan', 'dan', 'FFFFFF', 0.1, 'linear')
 		activate = true
 		if flashingLights then
-		cameraFlash('game', 'FFFFFF', 0.15)
+			cameraFlash('game', 'FFFFFF', 0.15)
 		end
 		cameraShake('camGame', 0.05, 0.2)
 		triggerEvent('Change Character', '1', 'bf-homestretchShock')
@@ -605,7 +634,7 @@ function onStepHit()
 	end
 	if curStep == 1936 then -- section 121
 		if flashingLights then
-		cameraFlash('game', 'FFFFFF', 0.15)
+			cameraFlash('game', 'FFFFFF', 0.15)
 		end
 		clearEffects('game')
 		setProperty('lights.visible', false)
@@ -619,7 +648,7 @@ function onStepHit()
 	end
 	if curStep == 1968 then
 		if flashingLights then
-		cameraFlash('other', 'FFFFFF', 0.15)
+			cameraFlash('other', 'FFFFFF', 0.15)
 		end
 		setProperty('camHUD.visible', false)
 		setProperty('camGame.visible', false)
@@ -652,6 +681,8 @@ end
 function onUpdate(el)
 	if (curBeat > 340 and getProperty('newScriptThing')) then
 		setProperty('newScriptThing',false)
+		hasCachedMidMid = true
+		hasCachedMid = true
 		triggerEvent('Camera Follow Pos', '', '')
 		setProperty('glow', false)
 	end
@@ -660,6 +691,8 @@ function onUpdate(el)
 			setSoundVolume('', 0)
 		end
 	end
+
+	--setProperty("vignetteLast.visible", theVig)
 end
 
 function onUpdatePost(el)

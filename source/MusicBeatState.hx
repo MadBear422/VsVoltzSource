@@ -84,23 +84,23 @@ class MusicBeatState extends FlxUIState
 			stepHit();
 
 		if (Main.dothebrit) 
+		{
+			flag.x = FlxG.random.int(0,1280);
+			flag.y = FlxG.random.int(0,720);
+			flag.loadGraphic(Paths.image('flag'));
+			flag.alpha = 0.2;
+			add(flag);
+			if (FlxG.random.int(0,1) == 0)
 			{
-				flag.x = FlxG.random.int(0,1280);
-				flag.y = FlxG.random.int(0,720);
-				flag.loadGraphic(Paths.image('flag'));
-				flag.alpha = 0.2;
-					add(flag);
-					if (FlxG.random.int(0,1) == 0)
-						{
-							flag.spins = true;
-						}
-					bruhLOUDNESS += 1;
-					FlxG.sound.play(Paths.sound('brownBricks'));
-					for (i in 0...bruhLOUDNESS)
-						{
-							FlxG.sound.play(Paths.sound('brownBricks'));
-						}
+				flag.spins = true;
 			}
+			bruhLOUDNESS += 1;
+			FlxG.sound.play(Paths.sound('brownBricks'));
+			for (i in 0...bruhLOUDNESS)
+			{
+				FlxG.sound.play(Paths.sound('brownBricks'));
+			}
+		}
 			
 			
 		/*

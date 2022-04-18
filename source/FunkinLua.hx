@@ -885,6 +885,7 @@ class FunkinLua {
 			var leSprite:ModchartSprite = new ModchartSprite(x, y);
 			if(image != null && image.length > 0) {
 				leSprite.loadGraphic(Paths.image(image));
+				GPUTools.uploadToGpu(leSprite);
 			}
 			leSprite.antialiasing = ClientPrefs.globalAntialiasing;
 			PlayState.instance.modchartSprites.set(tag, leSprite);
@@ -894,21 +895,19 @@ class FunkinLua {
 			tag = tag.replace('.', '');
 			resetSpriteTag(tag);
 			var leSprite:ModchartSprite = new ModchartSprite(x, y);
-			
-			switch(spriteType.toLowerCase()){
-			
-				case "texture" | "textureatlas"|"tex":
+
+			switch(spriteType.toLowerCase())
+			{
+				case "texture" | "textureatlas" | "tex":
 					leSprite.frames = AtlasFrameMaker.construct(image);
-					
-				case "packer" |"packeratlas"|"pac":
+				case "packer" | "packeratlas" | "pac":
 					leSprite.frames = Paths.getPackerAtlas(image);
-				
 				default:
 					leSprite.frames = Paths.getSparrowAtlas(image);
 			}
-			
-			
+
 			leSprite.antialiasing = ClientPrefs.globalAntialiasing;
+			GPUTools.uploadToGpu(leSprite);
 			PlayState.instance.modchartSprites.set(tag, leSprite);
 		});
 
@@ -935,7 +934,7 @@ class FunkinLua {
 				}
 				return;
 			}
-			
+
 			var cock:FlxSprite = Reflect.getProperty(getInstance(), obj);
 			if(cock != null) {
 				cock.animation.addByPrefix(name, prefix, framerate, loop);
@@ -1238,10 +1237,10 @@ class FunkinLua {
 				}
 			}
 		});
-		Lua_helper.add_callback(lua, "startVideo", function(videoFile:String) {
+		Lua_helper.add_callback(lua, "startVideo", function(videoFile:String, hasSkipIcon:Bool = false) {
 			#if VIDEOS_ALLOWED
 			if(FileSystem.exists(Paths.video(videoFile))) {
-				PlayState.instance.startVideo(videoFile);
+				PlayState.instance.startVideo(videoFile, hasSkipIcon);
 			} else {
 				luaTrace('Video file not found: ' + videoFile);
 			}
@@ -2034,7 +2033,7 @@ class DebugLuaText extends FlxText
 		disableTime -= elapsed;
 		if(disableTime <= 0) {
 			kill();
-			parentGroup.remove(this);
+			parentGroup.remove(this, true);
 			destroy();
 		}
 		else if(disableTime < 1) alpha = disableTime;

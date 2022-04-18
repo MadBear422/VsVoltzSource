@@ -13,7 +13,7 @@ end
 local allowCountdown = false
 function onStartCountdown()
 	if not allowCountdown and not seenCutscene then --Block the first countdown
-		startVideo('Twomah');
+		startVideo('Movies/Twomah', true);
 		allowCountdown = true;
 		return Function_Stop;
 	end

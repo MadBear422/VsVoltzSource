@@ -107,7 +107,7 @@ class CreditsVoltz extends MusicBeatState
             foer.updateHitbox();
             foer.antialiasing = ClientPrefs.globalAntialiasing;
             grpff.add(foer);
-            
+
             scrollBar = new FlxSprite().loadGraphic(Paths.image('creds/midskin'));
             scrollBar.antialiasing = ClientPrefs.globalAntialiasing;
             scrollBar.setGraphicSize(Std.int(FlxG.width));
@@ -119,12 +119,12 @@ class CreditsVoltz extends MusicBeatState
 
             vidBtn = new FlxSprite().loadGraphic(Paths.image('creds/vid'));
             vidBtn.antialiasing = ClientPrefs.globalAntialiasing;
-            vidBtn.setGraphicSize(Std.int(FlxG.width));
+            //vidBtn.setGraphicSize(Std.int(FlxG.width));
             vidBtn.updateHitbox();
             add(vidBtn);
 
             var stupidText:FlxSprite = new FlxSprite().loadGraphic(Paths.image('creds/spr'));
-            stupidText.setGraphicSize(Std.int(FlxG.width));
+            //stupidText.setGraphicSize(Std.int(FlxG.width));
             stupidText.updateHitbox();
             stupidText.antialiasing = ClientPrefs.globalAntialiasing;
             add(stupidText);

@@ -1,12 +1,13 @@
 package;
 
+import flixel.util.FlxAxes;
 import flixel.math.FlxPoint;
 import flixel.FlxSprite;
 import flixel.graphics.frames.FlxAtlasFrames;
 
 class BGSprite extends FlxSprite
 {
-	private var idleAnim:String;
+	public var idleAnim:String;
 	public function new(image:String, x:Float = 0, y:Float = 0, ?scrollX:Float = 1, ?scrollY:Float = 1, ?animArray:Array<String> = null, ?loop:Bool = false, ?args:Map<String, Dynamic> = null) {
 		super(x, y);
 
@@ -40,6 +41,8 @@ class BGSprite extends FlxSprite
 		setGraphicSize(Math.round(width * extras["scale"]));
 		updateHitbox();
 		antialiasing = ClientPrefs.globalAntialiasing;
+
+		GPUTools.uploadToGpu(this);
 	}
 
 	public function dance(?forceplay:Bool = false) {
