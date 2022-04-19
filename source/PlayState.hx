@@ -1610,7 +1610,7 @@ class PlayState extends MusicBeatState
 				inCutscene = false;
 				remove(storyDiaFile);
 				camOther.fade(FlxColor.BLACK, 0.35, true, null, true);
-				startVideo("week1S");
+				startVideo("Movies/week1S");
 				boyfriend.stunned = false;
 			}
 		});
